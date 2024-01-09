@@ -8,7 +8,27 @@
 				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/FirstPersonArms/Animations/Arms.uasset",
 				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/FirstPersonArms/Animations/MM_Pistol_Idle_ADS.uasset",
 				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/FirstPersonArms/Animations/MF_Pistol_Walk_Fwd.uasset",
-				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/FirstPersonArms/Animations/ABP_Arms.uasset"
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/FirstPersonArms/Animations/ABP_Arms.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/MI_Weapon_Pistol.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/SK_Pistol.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/SK_Pistol_Anim.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/SK_Pistol_PhysicsAsset.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/SK_Pistol_Skeleton.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/T_Pistol_AORM.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/T_Pistol_D.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/T_Pistol_Masks.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/T_Pistol_N.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/MI_Weapon_Pistol.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/SK_Pistol.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/SK_Pistol_Anim.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/SK_Pistol_PhysicsAsset.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/SK_Pistol_Skeleton.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/T_Pistol_AORM.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/T_Pistol_D.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/T_Pistol_Masks.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/T_Pistol_N.uasset"
 			]
 		}
 	]

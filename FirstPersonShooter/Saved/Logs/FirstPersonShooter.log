@@ -1635,3 +1635,872 @@ Converted Global Transform (11.883671,2.732086,-3.781978|-80.275215,-72.104141,6
 [2024.01.09-09.02.31:998][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 257 ms)
 [2024.01.09-09.02.31:999][358]AssetCheck: New page: Asset Save: ABP_Arms
 [2024.01.09-09.02.31:999][358]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms
+[2024.01.09-09.04.04:292][905]BlueprintLog: New page: Compile ABP_Arms
+[2024.01.09-09.04.04:324][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2024.01.09-09.04.04:338][905]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_40
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.04:371][906]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_41
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.04:400][907]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.04:408][908]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.04:416][909]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.04:425][910]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.04:434][911]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.04:442][912]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.04:450][913]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.04:458][914]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.04:467][915]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.04:475][916]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.04:484][917]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.04:492][918]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.04:501][919]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.04:512][920]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.04:531][921]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.04:539][922]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.25:795][110]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_42
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.25:810][111]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_43
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.25:827][112]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_44
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.25:844][113]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_45
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.25:861][114]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_46
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.25:878][115]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_47
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.25:895][116]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_48
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.25:912][117]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_49
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.04.32:306][566]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.09-09.04.32:342][567]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.09-09.04.32:363][568]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.09-09.04.33:029][611]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.09-09.04.33:030][611]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.09-09.04.33:030][611]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.09-09.04.45:726][ 93]LogViewport: Scene viewport resized to 704x646, mode Windowed.
+[2024.01.09-09.04.54:163][245]LogViewport: Scene viewport resized to 703x646, mode Windowed.
+[2024.01.09-09.04.54:176][246]LogViewport: Scene viewport resized to 702x646, mode Windowed.
+[2024.01.09-09.04.54:190][247]LogViewport: Scene viewport resized to 700x646, mode Windowed.
+[2024.01.09-09.04.54:204][248]LogViewport: Scene viewport resized to 698x646, mode Windowed.
+[2024.01.09-09.04.54:219][249]LogViewport: Scene viewport resized to 696x646, mode Windowed.
+[2024.01.09-09.04.54:233][250]LogViewport: Scene viewport resized to 695x646, mode Windowed.
+[2024.01.09-09.04.54:247][251]LogViewport: Scene viewport resized to 693x646, mode Windowed.
+[2024.01.09-09.04.54:261][252]LogViewport: Scene viewport resized to 692x646, mode Windowed.
+[2024.01.09-09.04.54:274][253]LogViewport: Scene viewport resized to 691x646, mode Windowed.
+[2024.01.09-09.04.54:312][257]LogViewport: Scene viewport resized to 689x646, mode Windowed.
+[2024.01.09-09.04.54:326][258]LogViewport: Scene viewport resized to 688x646, mode Windowed.
+[2024.01.09-09.04.54:380][264]LogViewport: Scene viewport resized to 687x646, mode Windowed.
+[2024.01.09-09.04.54:402][266]LogViewport: Scene viewport resized to 686x646, mode Windowed.
+[2024.01.09-09.04.54:416][267]LogViewport: Scene viewport resized to 685x646, mode Windowed.
+[2024.01.09-09.04.54:429][268]LogViewport: Scene viewport resized to 682x646, mode Windowed.
+[2024.01.09-09.04.54:443][269]LogViewport: Scene viewport resized to 681x646, mode Windowed.
+[2024.01.09-09.04.54:889][322]LogViewport: Scene viewport resized to 682x646, mode Windowed.
+[2024.01.09-09.05.46:946][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.01.09-09.05.47:794][439]LogSlate: Window 'Save Content' being destroyed
+[2024.01.09-09.05.47:811][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.09-09.05.47:829][439]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_50
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.05.47:841][439]LogSavePackage: Moving output files for package: /Game/FirstPersonArms/Animations/ABP_Arms
+[2024.01.09-09.05.47:842][439]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/ABP_Arms0AA588A94CB650A4896D9481FB156F19.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/FirstPersonArms/Animations/ABP_Arms.uasset'
+[2024.01.09-09.05.47:858][439]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.09-09.05.47:858][439]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/BP_FirstPersonCharacter57D2956D4205F9F792812A95F63E7251.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.09-09.05.47:872][439]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2024.01.09-09.05.47:872][439]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/BP_Weapon_Component83EBB7C84E9E2CA340AE7BAFA61C8CCD.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2024.01.09-09.05.47:877][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 323 ms)
+[2024.01.09-09.05.47:880][439]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.09-09.05.47:880][439]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms
+[2024.01.09-09.05.47:880][439]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.09-09.05.47:880][439]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.01.09-09.05.54:896][273]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.01.09-09.07.43:700][413]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.01.09-09.07.43:774][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.09-09.07.47:096][649]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.09-09.07.47:101][649]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.09-09.07.47:101][649]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.09-09.07.47:104][649]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 4 ms)
+[2024.01.09-09.07.47:104][649]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.09-09.07.47:105][649]LogPlayLevel: [PlayLevel] Compiling BP_Weapon_Component before play...
+[2024.01.09-09.07.47:136][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.01.09-09.07.47:137][649]LogPlayLevel: PlayLevel: Blueprint regeneration took 33 ms (1 blueprints)
+[2024.01.09-09.07.47:137][649]PIE: New page: PIE session: FirstPersonMap (9 de jan de 2024 03:07:47)
+[2024.01.09-09.07.47:137][649]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.09-09.07.47:142][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004969s)
+[2024.01.09-09.07.47:142][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004999s)
+[2024.01.09-09.07.47:158][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.01.09-09.07.47:159][649]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.09-09.07.47:159][649]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.09-09.07.47:160][649]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.09-09.07.47:160][649]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.09-09.07.47:160][649]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.09-09.07.47:160][649]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.09-09.07.47:160][649]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.09-09.07.47:162][649]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.09-09.07.47:162][649]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 74 ms)
+[2024.01.09-09.07.47:162][649]LogPlayLevel: PIE: World Init took: (0.002656s)
+[2024.01.09-09.07.47:162][649]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.01.09-09.07.47:162][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.09-09.07.47:162][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.09-09.07.47:162][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.09-09.07.47:162][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.09-09.07.47:162][649]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.09-09.07.47:162][649]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.09-09.07.47:162][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.09-09.07.47:162][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.09-09.07.47:162][649]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.09-09.07.47:162][649]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.09-09.07.47:162][649]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.09-09.07.47:165][649]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.09-09.07.47:187][649]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.09-09.07.47:188][649]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.09-09.07.47:188][649]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.09-09.07.47:188][649]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.09-09.07.47:188][649]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.01.09-09.07.47:188][649]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.01.09-09.07.47:190][649]LogInit: FAudioDevice initialized with ID 3.
+[2024.01.09-09.07.47:190][649]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.01.09-09.07.47:190][649]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.01.09-09.07.47:190][649]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2024.01.09-09.07.47:190][649]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.01.09-09.07.47:192][649]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.09-09.07.47:195][649]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.09-06.07.47
+[2024.01.09-09.07.47:195][649]LogWorld: Bringing up level for play took: 0.002199
+[2024.01.09-09.07.47:196][649]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.01.09-09.07.47:199][649]PIE: Server logged in
+[2024.01.09-09.07.47:200][649]PIE: Play in editor total start time 0,098 seconds.
+[2024.01.09-09.08.30:781][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-09.08.30:781][869]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.09-09.08.30:781][869]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-09.08.30:781][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-09.08.30:782][869]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.09-09.08.30:784][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.09-09.08.30:788][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-09.08.30:804][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-09.08.30:804][869]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.01.09-09.08.30:804][869]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.01.09-09.08.30:806][869]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.01.09-09.08.30:813][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.01.09-09.08.30:890][870]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.01.09-09.08.53:636][744]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.01.09-09.08.53:700][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.01.09-09.08.55:873][884]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.09-09.08.55:879][884]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.09-09.08.55:879][884]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.09-09.08.55:881][884]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 6 ms)
+[2024.01.09-09.08.55:881][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.09-09.08.55:881][884]PIE: New page: PIE session: FirstPersonMap (9 de jan de 2024 03:08:55)
+[2024.01.09-09.08.55:920][884]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.09-09.08.55:925][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004370s)
+[2024.01.09-09.08.55:925][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004409s)
+[2024.01.09-09.08.55:945][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.01.09-09.08.55:946][884]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.09-09.08.55:946][884]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.09-09.08.55:947][884]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.09-09.08.55:947][884]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.09-09.08.55:947][884]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.09-09.08.55:947][884]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.09-09.08.55:947][884]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.09-09.08.55:948][884]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.09-09.08.55:948][884]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 75 ms)
+[2024.01.09-09.08.55:948][884]LogPlayLevel: PIE: World Init took: (0.002738s)
+[2024.01.09-09.08.55:949][884]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.01.09-09.08.55:949][884]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.09-09.08.55:949][884]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.09-09.08.55:949][884]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.09-09.08.55:949][884]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.09-09.08.55:949][884]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.09-09.08.55:949][884]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.09-09.08.55:949][884]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.09-09.08.55:949][884]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.09-09.08.55:949][884]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.09-09.08.55:949][884]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.09-09.08.55:949][884]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.09-09.08.55:951][884]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.09-09.08.55:973][884]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.09-09.08.55:973][884]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.09-09.08.55:973][884]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.09-09.08.55:973][884]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.09-09.08.55:973][884]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.01.09-09.08.55:973][884]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.01.09-09.08.55:975][884]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.01.09-09.08.55:975][884]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.01.09-09.08.55:975][884]LogInit: FAudioDevice initialized with ID 4.
+[2024.01.09-09.08.55:975][884]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2024.01.09-09.08.55:975][884]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.01.09-09.08.55:977][884]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.09-09.08.55:980][884]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.09-06.08.55
+[2024.01.09-09.08.55:980][884]LogWorld: Bringing up level for play took: 0.002283
+[2024.01.09-09.08.55:982][884]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.01.09-09.08.55:984][884]PIE: Server logged in
+[2024.01.09-09.08.55:985][884]PIE: Play in editor total start time 0,106 seconds.
+[2024.01.09-09.09.37:891][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-09.09.37:891][904]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.09-09.09.37:891][904]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-09.09.37:892][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-09.09.37:892][904]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.09-09.09.37:894][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.09-09.09.37:898][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-09.09.37:914][904]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.09-09.09.37:915][904]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.01.09-09.09.37:915][904]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.01.09-09.09.37:917][904]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.01.09-09.09.37:920][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.09-09.09.37:923][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.09-09.09.37:995][905]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.01.09-09.10.02:548][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.01.09-09.10.02:550][ 31]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.019
+[2024.01.09-09.10.02:550][ 31]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.01.09-09.10.02:563][ 31]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.01.09-09.10.02:563][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.01.09-09.10.02:572][ 31]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1
+[2024.01.09-09.10.02:573][ 31]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/BP_FirstPersonCharacter_Auto1C503E3064CFBE06BF534BB90262E3627.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1.uasset'
+[2024.01.09-09.10.02:574][ 31]LogFileHelpers: Auto-saving content packages took 0.024
+[2024.01.09-09.11.56:612][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.09-09.11.57:900][457]LogSlate: Window 'Save Content' being destroyed
+[2024.01.09-09.11.57:918][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.09-09.11.57:940][457]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.09-09.11.57:940][457]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/BP_FirstPersonCharacterEF3A8DFF48E7D9106F74589BC23ED99D.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.09-09.11.57:945][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 26 ms (total: 350 ms)
+[2024.01.09-09.11.57:947][457]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.01.09-09.11.57:947][457]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.09-09.12.32:466][ 69]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\l-0-l\Desktop\Nova pasta (2)\pistol\Weap_Pistol_Fire.FBX)
+[2024.01.09-09.12.32:471][ 69]LogFbx: Loading FBX Scene from C:\Users\l-0-l\Desktop\Nova pasta (2)\pistol\Weap_Pistol_Fire.FBX
+[2024.01.09-09.12.32:477][ 69]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.09-09.13.08:999][ 69]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.09-09.13.09:027][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.01.09-09.13.09:029][ 69]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2024.01.09-09.13.09:248][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.09-09.13.09:252][ 69]FBXImport: Import was canceled. 
+[2024.01.09-09.13.09:264][ 69]LogAssetTools: The import task was canceled.
+[2024.01.09-09.13.21:137][291]LogSlate: Window 'Message Log' being destroyed
+[2024.01.09-09.13.21:141][291]LogSlate: Window 'Message Log' being destroyed
+[2024.01.09-09.13.31:706][805]LogStatusBar: Looking status bar with open content browser drawer...
+[2024.01.09-09.13.31:706][805]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2024.01.09-09.13.31:743][805]LogViewport: Scene viewport resized to 949x692, mode Windowed.
+[2024.01.09-09.13.31:922][816]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_51
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.34:327][986]LogViewport: Scene viewport resized to 949x691, mode Windowed.
+[2024.01.09-09.13.34:357][987]LogViewport: Scene viewport resized to 949x682, mode Windowed.
+[2024.01.09-09.13.34:381][988]LogViewport: Scene viewport resized to 949x672, mode Windowed.
+[2024.01.09-09.13.34:406][989]LogViewport: Scene viewport resized to 949x664, mode Windowed.
+[2024.01.09-09.13.34:428][990]LogViewport: Scene viewport resized to 949x659, mode Windowed.
+[2024.01.09-09.13.34:452][991]LogViewport: Scene viewport resized to 949x653, mode Windowed.
+[2024.01.09-09.13.34:474][992]LogViewport: Scene viewport resized to 949x647, mode Windowed.
+[2024.01.09-09.13.34:494][993]LogViewport: Scene viewport resized to 949x644, mode Windowed.
+[2024.01.09-09.13.34:520][994]LogViewport: Scene viewport resized to 949x640, mode Windowed.
+[2024.01.09-09.13.34:542][995]LogViewport: Scene viewport resized to 949x635, mode Windowed.
+[2024.01.09-09.13.34:562][996]LogViewport: Scene viewport resized to 949x632, mode Windowed.
+[2024.01.09-09.13.34:595][998]LogViewport: Scene viewport resized to 949x630, mode Windowed.
+[2024.01.09-09.13.34:619][999]LogViewport: Scene viewport resized to 949x628, mode Windowed.
+[2024.01.09-09.13.34:644][  0]LogViewport: Scene viewport resized to 949x624, mode Windowed.
+[2024.01.09-09.13.34:665][  1]LogViewport: Scene viewport resized to 949x620, mode Windowed.
+[2024.01.09-09.13.34:689][  2]LogViewport: Scene viewport resized to 949x614, mode Windowed.
+[2024.01.09-09.13.34:711][  3]LogViewport: Scene viewport resized to 949x607, mode Windowed.
+[2024.01.09-09.13.34:731][  4]LogViewport: Scene viewport resized to 949x597, mode Windowed.
+[2024.01.09-09.13.34:754][  5]LogViewport: Scene viewport resized to 949x587, mode Windowed.
+[2024.01.09-09.13.34:776][  6]LogViewport: Scene viewport resized to 949x578, mode Windowed.
+[2024.01.09-09.13.34:796][  7]LogViewport: Scene viewport resized to 949x571, mode Windowed.
+[2024.01.09-09.13.34:819][  8]LogViewport: Scene viewport resized to 949x565, mode Windowed.
+[2024.01.09-09.13.34:848][  9]LogViewport: Scene viewport resized to 949x559, mode Windowed.
+[2024.01.09-09.13.34:866][ 10]LogViewport: Scene viewport resized to 949x554, mode Windowed.
+[2024.01.09-09.13.34:885][ 11]LogViewport: Scene viewport resized to 949x549, mode Windowed.
+[2024.01.09-09.13.34:905][ 12]LogViewport: Scene viewport resized to 949x546, mode Windowed.
+[2024.01.09-09.13.34:925][ 13]LogViewport: Scene viewport resized to 949x545, mode Windowed.
+[2024.01.09-09.13.35:095][ 27]LogViewport: Scene viewport resized to 949x543, mode Windowed.
+[2024.01.09-09.13.35:124][ 28]LogViewport: Scene viewport resized to 949x541, mode Windowed.
+[2024.01.09-09.13.35:155][ 30]LogViewport: Scene viewport resized to 949x540, mode Windowed.
+[2024.01.09-09.13.35:185][ 32]LogViewport: Scene viewport resized to 949x539, mode Windowed.
+[2024.01.09-09.13.35:209][ 33]LogViewport: Scene viewport resized to 949x536, mode Windowed.
+[2024.01.09-09.13.35:230][ 34]LogViewport: Scene viewport resized to 949x531, mode Windowed.
+[2024.01.09-09.13.35:255][ 35]LogViewport: Scene viewport resized to 949x525, mode Windowed.
+[2024.01.09-09.13.35:275][ 36]LogViewport: Scene viewport resized to 949x521, mode Windowed.
+[2024.01.09-09.13.35:293][ 37]LogViewport: Scene viewport resized to 949x516, mode Windowed.
+[2024.01.09-09.13.35:313][ 38]LogViewport: Scene viewport resized to 949x508, mode Windowed.
+[2024.01.09-09.13.35:338][ 39]LogViewport: Scene viewport resized to 949x502, mode Windowed.
+[2024.01.09-09.13.35:357][ 40]LogViewport: Scene viewport resized to 949x499, mode Windowed.
+[2024.01.09-09.13.35:375][ 41]LogViewport: Scene viewport resized to 949x497, mode Windowed.
+[2024.01.09-09.13.36:812][156]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_52
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.36:824][157]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_53
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.36:839][158]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_54
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.36:853][159]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_55
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.36:867][160]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_56
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:111][180]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_57
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:123][181]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_58
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:138][182]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_59
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:152][183]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_60
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:166][184]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_61
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:178][185]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_62
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:192][186]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_63
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:207][187]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_64
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:221][188]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_65
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:235][189]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_66
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:249][190]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_67
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:263][191]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_68
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:277][192]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_69
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:291][193]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_70
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:305][194]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_71
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:320][195]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_72
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:334][196]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_73
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:346][197]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_74
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:361][198]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_75
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:375][199]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_76
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:389][200]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_77
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:404][201]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_78
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:417][202]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_79
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:430][203]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_80
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:444][204]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_81
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:459][205]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_82
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:878][235]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_83
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:893][236]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_84
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.37:907][237]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_85
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.38:369][275]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_86
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.38:379][276]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_87
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.38:393][277]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_88
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.38:408][278]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_89
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.38:422][279]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_90
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.42:576][588]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_91
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.42:588][589]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_92
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.42:603][590]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_93
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.09-09.13.46:216][866]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\l-0-l\Desktop\Nova pasta (2)\pistol\SK_Pistol.FBX)
+[2024.01.09-09.13.46:221][866]LogFbx: Loading FBX Scene from C:\Users\l-0-l\Desktop\Nova pasta (2)\pistol\SK_Pistol.FBX
+[2024.01.09-09.13.46:237][866]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.09-09.13.57:674][866]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.09-09.13.57:699][866]LogFbx: Valid bind pose for Pose (SK_Pistol) - SK_Pistol1
+[2024.01.09-09.13.57:703][866]LogMaterial: Display: Material /Game/MI_Weapon_Pistol.MI_Weapon_Pistol needed to have new flag set bUsedWithSkeletalMesh !
+[2024.01.09-09.13.57:763][866]LogFbxMaterialImport: Display: Unable to find Texture file F:/Unreal Engine/ArtSource_afarmer/depot/ArtSource/UE5/Lyra/Weapons/Pistol/T_Pistol_Combined_N.png
+[2024.01.09-09.13.57:788][866]LogFbx: Bones digested - 7  Depth of hierarchy - 4
+[2024.01.09-09.13.57:942][866]LogSkeletalMesh: Section 0: Material=0, 5590 triangles
+[2024.01.09-09.13.57:961][866]LogSkeletalMesh: Building Skeletal Mesh SK_Pistol...
+[2024.01.09-09.13.57:982][866]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Pistol) ...
+[2024.01.09-09.13.58:084][866]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/SK_Pistol.SK_Pistol
+[2024.01.09-09.13.58:145][866]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.09-09.13.58:145][866]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.09-09.13.58:154][866]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-09.13.58:154][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-09.13.58:162][866]LogFbx: SortedLinks :(0) Root
+[2024.01.09-09.13.58:162][866]LogFbx: SortedLinks :(1) Grip
+[2024.01.09-09.13.58:162][866]LogFbx: SortedLinks :(2) Slide
+[2024.01.09-09.13.58:162][866]LogFbx: SortedLinks :(3) Door
+[2024.01.09-09.13.58:162][866]LogFbx: SortedLinks :(4) Trigger
+[2024.01.09-09.13.58:162][866]LogFbx: SortedLinks :(5) Magazine
+[2024.01.09-09.13.58:162][866]LogFbx: SortedLinks :(6) Barrel
+[2024.01.09-09.13.58:162][866]LogFbx: Parsing AnimStack Unreal Take
+[2024.01.09-09.13.58:265][866]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/SK_Pistol_Anim.SK_Pistol_Anim
+[2024.01.09-09.13.58:265][866]LogAnimationCompression: Display: Storing compressed animation data for /Game/SK_Pistol_Anim.SK_Pistol_Anim, at AnimationSequence/28dece9d46f10727530293629158ad7be6e2d924
+[2024.01.09-09.13.58:275][866]FBXImport: FBX File Loading: Found name clash, node 'SK_Pistol' was renamed to 'SK_Pistol1' 
+[2024.01.09-09.13.58:275][866]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.01.09-09.13.58:341][867]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: ================================================
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: Total job queries 32, among them cache hits 0 (0.00%)
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: RAM used: 44,80 KiB of 819,20 MiB budget. Usage: 0.01%
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: Shaders Compiled: 2
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.10 s
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: Job execution time: average 1.36 s, max 1.36 s
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: Job life time (pending + execution): average 1.46 s, max 1.46
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: Shader code size: average 36,668 KiB, min 35,891 KiB, max 37,445 KiB
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.47 s
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: Average processing rate: 1.37 jobs/sec
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: Total thread time: 0,564 s
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: Total thread preprocess time: 0,054 s
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: Percentage time preprocessing: 9.61%
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: Effective parallelization: 0.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 50.08% of total time (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 49.92% of total time (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2024.01.09-09.13.59:827][969]LogShaderCompilers: Display: ================================================
+[2024.01.09-09.14.00:511][ 15]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.09-09.14.00:741][ 18]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.09-09.14.11:918][786]LogSlate: Window 'Message Log' being destroyed
+[2024.01.09-09.14.11:936][786]LogSlate: Window 'Message Log' being destroyed
+[2024.01.09-09.15.08:759][388]LogInterchangeEngine: [Pending] Importing
+[2024.01.09-09.15.08:759][388]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/l-0-l/Deskt...ova pasta (2)/pistol/T_Pistol_AORM.PNG]
+[2024.01.09-09.15.08:759][388]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.01.09-09.15.08:760][388]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/l-0-l/Deskt...ova pasta (2)/pistol/T_Pistol_D.PNG]
+[2024.01.09-09.15.08:760][388]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.01.09-09.15.08:760][388]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/l-0-l/Deskt...ova pasta (2)/pistol/T_Pistol_Masks.PNG]
+[2024.01.09-09.15.08:760][388]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.01.09-09.15.08:760][388]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/l-0-l/Deskt...ova pasta (2)/pistol/T_Pistol_N.PNG]
+[2024.01.09-09.15.08:783][389]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.01.09-09.15.09:108][390]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.01.09-09.15.09:108][390]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.01.09-09.15.09:113][390]LogTexture: Display: Building textures: /Game/T_Pistol_Masks.T_Pistol_Masks (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.09-09.15.09:115][390]LogTexture: Display: Building textures: /Game/T_Pistol_D.T_Pistol_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.09-09.15.09:454][390]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.01.09-09.15.09:546][391]LogTexture: Display: Building textures: /Game/T_Pistol_AORM.T_Pistol_AORM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.09-09.15.09:644][391]LogTexture: Display: Building textures: /Game/T_Pistol_N.T_Pistol_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.09-09.15.09:776][391]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.01.09-09.15.09:810][391]LogInterchangeEngine: [Success] Import Done
+[2024.01.09-09.15.09:822][392]LogInterchangeEngine: [Success] Import Done
+[2024.01.09-09.15.34:427][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.01.09-09.15.36:276][510]LogSlate: Window 'Save Content' being destroyed
+[2024.01.09-09.15.36:288][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.09-09.15.37:920][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MI_Weapon_Pistol" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/MI_Weapon_Pistol.uasset" SILENT=true
+[2024.01.09-09.15.37:922][510]LogSavePackage: Moving output files for package: /Game/MI_Weapon_Pistol
+[2024.01.09-09.15.37:922][510]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/MI_Weapon_Pistol9F2B15EB42744F0AB1339ABE1758FBF3.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/MI_Weapon_Pistol.uasset'
+[2024.01.09-09.15.37:929][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SK_Pistol" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/SK_Pistol.uasset" SILENT=true
+[2024.01.09-09.15.37:946][510]LogSavePackage: Moving output files for package: /Game/SK_Pistol
+[2024.01.09-09.15.37:946][510]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/SK_PistolC9E5FCD94600D6E06C1D2C8EBB715366.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/SK_Pistol.uasset'
+[2024.01.09-09.15.37:956][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SK_Pistol_Anim" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/SK_Pistol_Anim.uasset" SILENT=true
+[2024.01.09-09.15.37:959][510]LogSavePackage: Moving output files for package: /Game/SK_Pistol_Anim
+[2024.01.09-09.15.37:959][510]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/SK_Pistol_Anim22FE3E144579BC35D54BDC9757DA065D.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/SK_Pistol_Anim.uasset'
+[2024.01.09-09.15.37:968][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SK_Pistol_PhysicsAsset" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/SK_Pistol_PhysicsAsset.uasset" SILENT=true
+[2024.01.09-09.15.37:969][510]LogSavePackage: Moving output files for package: /Game/SK_Pistol_PhysicsAsset
+[2024.01.09-09.15.37:970][510]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/SK_Pistol_PhysicsAsset1E642FAA4B65E68D543EE8A8734E3FF1.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/SK_Pistol_PhysicsAsset.uasset'
+[2024.01.09-09.15.37:976][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SK_Pistol_Skeleton" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/SK_Pistol_Skeleton.uasset" SILENT=true
+[2024.01.09-09.15.37:979][510]LogSavePackage: Moving output files for package: /Game/SK_Pistol_Skeleton
+[2024.01.09-09.15.37:979][510]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/SK_Pistol_Skeleton81B706BE4688A5B0378C5DBAEC29BBAD.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/SK_Pistol_Skeleton.uasset'
+[2024.01.09-09.15.37:984][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/T_Pistol_AORM" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/T_Pistol_AORM.uasset" SILENT=true
+[2024.01.09-09.15.38:340][510]LogSavePackage: Moving output files for package: /Game/T_Pistol_AORM
+[2024.01.09-09.15.38:340][510]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/T_Pistol_AORM3B172DFF42F3088CA3BEE7963D183F7F.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/T_Pistol_AORM.uasset'
+[2024.01.09-09.15.38:343][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/T_Pistol_D" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/T_Pistol_D.uasset" SILENT=true
+[2024.01.09-09.15.38:637][510]LogSavePackage: Moving output files for package: /Game/T_Pistol_D
+[2024.01.09-09.15.38:637][510]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/T_Pistol_D14C102C2405C98E1FF9E089862388589.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/T_Pistol_D.uasset'
+[2024.01.09-09.15.38:640][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/T_Pistol_Masks" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/T_Pistol_Masks.uasset" SILENT=true
+[2024.01.09-09.15.38:840][510]LogSavePackage: Moving output files for package: /Game/T_Pistol_Masks
+[2024.01.09-09.15.38:840][510]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/T_Pistol_Masks2546927C49AEEC5883AD25BD69CFC61F.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/T_Pistol_Masks.uasset'
+[2024.01.09-09.15.38:843][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/T_Pistol_N" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/T_Pistol_N.uasset" SILENT=true
+[2024.01.09-09.15.39:198][510]LogSavePackage: Moving output files for package: /Game/T_Pistol_N
+[2024.01.09-09.15.39:198][510]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/T_Pistol_N35DDF5384068ABF18964A9965A6A7707.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/T_Pistol_N.uasset'
+[2024.01.09-09.15.39:207][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.91 sec (total: 3.27 sec)
+[2024.01.09-09.15.39:209][510]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.09-09.15.39:209][510]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MI_Weapon_Pistol.MI_Weapon_Pistol
+[2024.01.09-09.15.39:209][510]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/SK_Pistol.SK_Pistol
+[2024.01.09-09.15.39:209][510]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/SK_Pistol_Anim.SK_Pistol_Anim
+[2024.01.09-09.15.39:209][510]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/SK_Pistol_PhysicsAsset.SK_Pistol_PhysicsAsset
+[2024.01.09-09.15.39:209][510]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/SK_Pistol_Skeleton.SK_Pistol_Skeleton
+[2024.01.09-09.15.39:209][510]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/T_Pistol_AORM.T_Pistol_AORM
+[2024.01.09-09.15.39:209][510]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/T_Pistol_D.T_Pistol_D
+[2024.01.09-09.15.39:209][510]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/T_Pistol_Masks.T_Pistol_Masks
+[2024.01.09-09.15.39:209][510]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/T_Pistol_N.T_Pistol_N
+[2024.01.09-09.15.42:356][647]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MI_Weapon_Pistol.MI_Weapon_Pistol
+[2024.01.09-09.15.42:436][647]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.09-09.15.42:437][647]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.09-09.15.42:616][647]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.09-09.15.42:616][647]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.09-09.15.42:616][647]MaterialEditorStats: Shader Count: 0
+[2024.01.09-09.15.42:622][647]LogViewport: Scene viewport resized to 248x420, mode Windowed.
+[2024.01.09-09.15.42:703][649]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.01.09-09.15.42:703][649]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.01.09-09.15.42:703][649]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.09-09.15.42:703][649]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.09-09.15.42:703][649]MaterialEditorStats: Shader Count: 4
+[2024.01.09-09.16.04:872][200]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.01.09-09.16.11:637][737]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.09-09.16.11:647][737]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.09-09.16.11:659][738]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.09-09.16.16:319][128]LogContentBrowser: Attempting asset rename: NewFolder -> Pistol
+[2024.01.09-09.16.16:320][128]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.09-09.16.24:496][762]LogMetaData: Removing '/Game/Pistol/SK_Pistol.SK_Pistol' ref from Metadata '/Game/SK_Pistol.PackageMetaData'
+[2024.01.09-09.16.24:499][762]LogMetaData: Removing '/Game/Pistol/SK_Pistol_Anim.SK_Pistol_Anim' ref from Metadata '/Game/SK_Pistol_Anim.PackageMetaData'
+[2024.01.09-09.16.24:501][762]LogMetaData: Removing '/Game/Pistol/SK_Pistol_Skeleton.SK_Pistol_Skeleton' ref from Metadata '/Game/SK_Pistol_Skeleton.PackageMetaData'
+[2024.01.09-09.16.24:506][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.09-09.16.24:525][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pistol/MI_Weapon_Pistol" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/MI_Weapon_Pistol.uasset" SILENT=true
+[2024.01.09-09.16.24:526][762]LogSavePackage: Moving output files for package: /Game/Pistol/MI_Weapon_Pistol
+[2024.01.09-09.16.24:526][762]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/MI_Weapon_Pistol191B598243EBF2BB577AF99FD86EA16E.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/MI_Weapon_Pistol.uasset'
+[2024.01.09-09.16.24:527][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pistol/SK_Pistol" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/SK_Pistol.uasset" SILENT=true
+[2024.01.09-09.16.24:534][762]LogSavePackage: Moving output files for package: /Game/Pistol/SK_Pistol
+[2024.01.09-09.16.24:534][762]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/SK_Pistol42770C824940B3962B0CCB85D548869D.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/SK_Pistol.uasset'
+[2024.01.09-09.16.24:537][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pistol/SK_Pistol_Anim" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/SK_Pistol_Anim.uasset" SILENT=true
+[2024.01.09-09.16.24:539][762]LogSavePackage: Moving output files for package: /Game/Pistol/SK_Pistol_Anim
+[2024.01.09-09.16.24:540][762]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/SK_Pistol_AnimE8C517F240B4A719F54ABC8D3CC37AC2.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/SK_Pistol_Anim.uasset'
+[2024.01.09-09.16.24:542][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pistol/SK_Pistol_PhysicsAsset" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/SK_Pistol_PhysicsAsset.uasset" SILENT=true
+[2024.01.09-09.16.24:543][762]LogSavePackage: Moving output files for package: /Game/Pistol/SK_Pistol_PhysicsAsset
+[2024.01.09-09.16.24:543][762]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/SK_Pistol_PhysicsAsset7851814A40A92376EAB382A89D9766A0.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/SK_Pistol_PhysicsAsset.uasset'
+[2024.01.09-09.16.24:544][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pistol/SK_Pistol_Skeleton" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/SK_Pistol_Skeleton.uasset" SILENT=true
+[2024.01.09-09.16.24:545][762]LogSavePackage: Moving output files for package: /Game/Pistol/SK_Pistol_Skeleton
+[2024.01.09-09.16.24:545][762]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/SK_Pistol_Skeleton0CAFC3D5418C8503D886E2BC82588ED6.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/SK_Pistol_Skeleton.uasset'
+[2024.01.09-09.16.24:548][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pistol/T_Pistol_AORM" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/T_Pistol_AORM.uasset" SILENT=true
+[2024.01.09-09.16.24:747][762]LogSavePackage: Moving output files for package: /Game/Pistol/T_Pistol_AORM
+[2024.01.09-09.16.24:747][762]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/T_Pistol_AORM1293CFF74FEC21598DB6B9B75A56483E.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/T_Pistol_AORM.uasset'
+[2024.01.09-09.16.24:748][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pistol/T_Pistol_D" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/T_Pistol_D.uasset" SILENT=true
+[2024.01.09-09.16.24:882][762]LogSavePackage: Moving output files for package: /Game/Pistol/T_Pistol_D
+[2024.01.09-09.16.24:882][762]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/T_Pistol_D7CF5D10744DFED99DA4CBEBE9D8AF3D4.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/T_Pistol_D.uasset'
+[2024.01.09-09.16.24:883][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pistol/T_Pistol_Masks" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/T_Pistol_Masks.uasset" SILENT=true
+[2024.01.09-09.16.24:922][762]LogSavePackage: Moving output files for package: /Game/Pistol/T_Pistol_Masks
+[2024.01.09-09.16.24:922][762]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/T_Pistol_MasksC5A1D91A4F5E38CC9B458A8A11135458.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/T_Pistol_Masks.uasset'
+[2024.01.09-09.16.24:923][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pistol/T_Pistol_N" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/T_Pistol_N.uasset" SILENT=true
+[2024.01.09-09.16.25:096][762]LogSavePackage: Moving output files for package: /Game/Pistol/T_Pistol_N
+[2024.01.09-09.16.25:096][762]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/T_Pistol_N9D4763CC41D82ADF6706028C3D74C703.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/T_Pistol_N.uasset'
+[2024.01.09-09.16.25:103][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 596 ms (total: 3.86 sec)
+[2024.01.09-09.16.25:175][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.01.09-09.16.25:191][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.09-09.16.25:206][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.09-09.16.25:222][762]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.09-09.16.25:222][762]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Pistol/MI_Weapon_Pistol.MI_Weapon_Pistol
+[2024.01.09-09.16.25:222][762]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Pistol/SK_Pistol.SK_Pistol
+[2024.01.09-09.16.25:222][762]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Pistol/SK_Pistol_Anim.SK_Pistol_Anim
+[2024.01.09-09.16.25:222][762]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Pistol/SK_Pistol_PhysicsAsset.SK_Pistol_PhysicsAsset
+[2024.01.09-09.16.25:222][762]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Pistol/SK_Pistol_Skeleton.SK_Pistol_Skeleton
+[2024.01.09-09.16.25:222][762]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Pistol/T_Pistol_AORM.T_Pistol_AORM
+[2024.01.09-09.16.25:222][762]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Pistol/T_Pistol_D.T_Pistol_D
+[2024.01.09-09.16.25:222][762]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Pistol/T_Pistol_Masks.T_Pistol_Masks
+[2024.01.09-09.16.25:222][762]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Pistol/T_Pistol_N.T_Pistol_N
+[2024.01.09-09.16.26:182][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.09-09.16.26:233][845]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.09-09.16.46:828][666]LogStatusBar: Looking status bar with open content browser drawer...
+[2024.01.09-09.16.46:828][666]LogStatusBar: StatusBar: LevelEditor.StatusBar was content browser was not opened
+[2024.01.09-09.16.46:828][666]LogStatusBar: StatusBar: AnimationBlueprintEditorApp_1 was content browser was not opened
+[2024.01.09-09.16.46:828][666]LogStatusBar: StatusBar: AnimationEditorApp_2 was content browser was not opened
+[2024.01.09-09.16.46:828][666]LogStatusBar: StatusBar: BlueprintEditorApp_3 was content browser was not opened
+[2024.01.09-09.16.46:828][666]LogStatusBar: Using status bar: MaterialEditorApp_4 to dock content browser
+[2024.01.09-09.16.48:101][809]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.09-09.16.48:104][809]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.09-09.17.04:081][314]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.09-09.17.04:081][314]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.09-09.17.04:081][314]MaterialEditorStats: Shader Count: 0
+[2024.01.09-09.17.04:433][353]LogShaderCompilers: Display: ================================================
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: Total job queries 72, among them cache hits 6 (8.33%)
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: Tracking 33 distinct input hashes that result in 18 distinct outputs (54.55%)
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: RAM used: 811,08 KiB of 819,20 MiB budget. Usage: 0.10%
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: Shaders Compiled: 33
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: Jobs assigned 36, completed 33 (91.67%)
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: Average time worker was idle: 26.02 s
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: Time job spent in pending queue: average 0.42 s, longest 1.16 s
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: Job execution time: average 0.53 s, max 1.36 s
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: Job life time (pending + execution): average 0.98 s, max 1.58
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: Shader code size: average 41,93 KiB, min 29,613 KiB, max 60,766 KiB
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.39 s
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: Jobs were issued in 36 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: Average processing rate: 7.51 jobs/sec
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: Total thread time: 11,191 s
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: Total thread preprocess time: 1,151 s
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: Percentage time preprocessing: 10.28%
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: Effective parallelization: 2.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.44 sec, max 0.47 sec, min 0.42 sec)
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.44 sec, max 0.47 sec, min 0.41 sec)
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.43 sec, max 0.46 sec, min 0.40 sec)
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.40 sec, max 0.41 sec, min 0.40 sec)
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.39 sec, max 0.44 sec, min 0.35 sec)
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 7.94% of total time (compiled    2 times, average 0.44 sec, max 0.47 sec, min 0.42 sec)
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 7.87% of total time (compiled    2 times, average 0.44 sec, max 0.47 sec, min 0.41 sec)
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.82% of total time (compiled    3 times, average 0.29 sec, max 0.34 sec, min 0.25 sec)
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.72% of total time (compiled    3 times, average 0.29 sec, max 0.36 sec, min 0.22 sec)
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 7.69% of total time (compiled    2 times, average 0.43 sec, max 0.46 sec, min 0.40 sec)
+[2024.01.09-09.17.04:434][353]LogShaderCompilers: Display: ================================================
+[2024.01.09-09.17.04:640][378]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.01.09-09.17.04:641][378]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.01.09-09.17.04:641][378]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.09-09.17.04:641][378]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.09-09.17.04:641][378]MaterialEditorStats: Shader Count: 4
+[2024.01.09-09.17.06:548][596]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.09-09.17.06:548][596]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.09-09.17.06:548][596]MaterialEditorStats: Shader Count: 0
+[2024.01.09-09.17.06:609][598]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.01.09-09.17.06:609][598]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.01.09-09.17.06:609][598]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.09-09.17.06:609][598]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.09-09.17.06:609][598]MaterialEditorStats: Shader Count: 4
+[2024.01.09-09.17.08:263][785]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.09-09.17.08:263][785]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.09-09.17.08:263][785]MaterialEditorStats: Shader Count: 0
+[2024.01.09-09.17.08:325][787]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.01.09-09.17.08:325][787]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.01.09-09.17.08:325][787]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.09-09.17.08:325][787]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.09-09.17.08:325][787]MaterialEditorStats: Shader Count: 4
+[2024.01.09-09.17.09:638][933]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.09-09.17.09:638][933]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.09-09.17.09:638][933]MaterialEditorStats: Shader Count: 0
+[2024.01.09-09.17.09:699][935]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.01.09-09.17.09:700][935]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.01.09-09.17.09:700][935]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.09-09.17.09:700][935]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.09-09.17.09:700][935]MaterialEditorStats: Shader Count: 4
+[2024.01.09-09.17.10:872][ 60]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.09-09.17.10:873][ 60]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.09-09.17.10:873][ 60]MaterialEditorStats: Shader Count: 0
+[2024.01.09-09.17.10:937][ 62]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.01.09-09.17.10:937][ 62]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.01.09-09.17.10:937][ 62]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.09-09.17.10:937][ 62]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.09-09.17.10:937][ 62]MaterialEditorStats: Shader Count: 4
+[2024.01.09-09.17.21:207][273]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.09-09.17.21:207][273]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.09-09.17.21:207][273]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.17.21:207][273]MaterialEditorStats: Shader Count: 0
+[2024.01.09-09.17.21:498][304]MaterialEditorStats: Texture samplers: 1/16
+[2024.01.09-09.17.21:499][304]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.09-09.17.21:499][304]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.17.21:499][304]MaterialEditorStats: Shader Count: 1
+[2024.01.09-09.17.21:609][317]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.09-09.17.21:609][317]MaterialEditorStats: Texture samplers: 1/16
+[2024.01.09-09.17.21:609][317]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.09-09.17.21:609][317]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.17.21:609][317]MaterialEditorStats: Shader Count: 3
+[2024.01.09-09.17.21:709][329]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.01.09-09.17.21:709][329]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.09-09.17.21:709][329]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.09-09.17.21:709][329]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.09-09.17.21:709][329]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.17.21:709][329]MaterialEditorStats: Shader Count: 4
+[2024.01.09-09.17.53:121][497]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.09-09.17.53:121][497]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.09-09.17.53:121][497]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.17.53:121][497]MaterialEditorStats: Shader Count: 0
+[2024.01.09-09.17.53:466][536]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.09-09.17.53:466][536]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.09-09.17.53:466][536]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.17.53:466][536]MaterialEditorStats: Shader Count: 1
+[2024.01.09-09.17.53:671][560]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.01.09-09.17.53:671][560]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.09-09.17.53:671][560]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.09-09.17.53:671][560]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.09-09.17.53:671][560]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.17.53:671][560]MaterialEditorStats: Shader Count: 4
+[2024.01.09-09.18.20:747][533]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.09-09.18.20:747][533]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.09-09.18.20:747][533]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.18.20:747][533]MaterialEditorStats: Shader Count: 0
+[2024.01.09-09.18.21:181][583]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.09-09.18.21:181][583]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.09-09.18.21:181][583]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.18.21:181][583]MaterialEditorStats: Shader Count: 1
+[2024.01.09-09.18.21:385][607]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.01.09-09.18.21:385][607]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.09-09.18.21:385][607]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.09-09.18.21:385][607]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.09-09.18.21:385][607]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.18.21:385][607]MaterialEditorStats: Shader Count: 4
+[2024.01.09-09.18.28:183][412]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.09-09.18.28:183][412]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.09-09.18.28:183][412]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.18.28:183][412]MaterialEditorStats: Shader Count: 0
+[2024.01.09-09.18.28:424][440]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.09-09.18.28:424][440]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.09-09.18.28:424][440]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.18.28:424][440]MaterialEditorStats: Shader Count: 1
+[2024.01.09-09.18.28:524][452]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.09-09.18.28:524][452]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.09-09.18.28:524][452]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.09-09.18.28:524][452]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.18.28:524][452]MaterialEditorStats: Shader Count: 3
+[2024.01.09-09.18.28:623][464]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.01.09-09.18.28:623][464]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.09-09.18.28:623][464]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.09-09.18.28:623][464]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.09-09.18.28:623][464]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.18.28:623][464]MaterialEditorStats: Shader Count: 4
+[2024.01.09-09.18.34:237][979]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Pistol/SK_Pistol.SK_Pistol
+[2024.01.09-09.18.34:238][979]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.09-09.18.34:238][979]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.09-09.18.34:251][979]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.09-09.18.34:569][979]LogViewport: Scene viewport resized to 950x810, mode Windowed.
+[2024.01.09-09.18.42:235][638]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-09.18.42:235][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-09.18.46:596][149]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.09-09.18.46:596][149]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.09-09.18.46:596][149]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.18.46:596][149]MaterialEditorStats: Shader Count: 0
+[2024.01.09-09.18.46:930][185]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.09-09.18.46:930][185]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.09-09.18.46:930][185]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.18.46:930][185]MaterialEditorStats: Shader Count: 1
+[2024.01.09-09.18.47:031][197]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.09-09.18.47:031][197]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.09-09.18.47:031][197]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.09-09.18.47:031][197]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.18.47:031][197]MaterialEditorStats: Shader Count: 2
+[2024.01.09-09.18.47:139][210]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.01.09-09.18.47:139][210]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.09-09.18.47:139][210]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.09-09.18.47:139][210]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.09-09.18.47:139][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.18.47:139][210]MaterialEditorStats: Shader Count: 4
+[2024.01.09-09.18.48:121][323]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.09-09.18.48:121][323]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.09-09.18.48:121][323]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.18.48:121][323]MaterialEditorStats: Shader Count: 0
+[2024.01.09-09.18.48:355][346]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.09-09.18.48:355][346]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.09-09.18.48:355][346]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.18.48:355][346]MaterialEditorStats: Shader Count: 1
+[2024.01.09-09.18.48:454][358]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.09-09.18.48:454][358]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.09-09.18.48:454][358]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.09-09.18.48:454][358]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.18.48:454][358]MaterialEditorStats: Shader Count: 3
+[2024.01.09-09.18.48:572][371]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.01.09-09.18.48:572][371]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.09-09.18.48:572][371]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.09-09.18.48:573][371]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.09-09.18.48:573][371]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.18.48:573][371]MaterialEditorStats: Shader Count: 4
+[2024.01.09-09.18.51:764][750]LogMaterialEditor: Saving and Compiling material MI_Weapon_Pistol
+[2024.01.09-09.18.51:833][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.01.09-09.18.52:272][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.09-09.18.52:280][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.09-09.18.53:661][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pistol/MI_Weapon_Pistol" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/MI_Weapon_Pistol.uasset" SILENT=true
+[2024.01.09-09.18.53:662][750]LogSavePackage: Moving output files for package: /Game/Pistol/MI_Weapon_Pistol
+[2024.01.09-09.18.53:663][750]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/MI_Weapon_PistolF0F2FC654C2B5C6B17B32EAECA2E0B28.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Pistol/MI_Weapon_Pistol.uasset'
+[2024.01.09-09.18.53:668][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.38 sec (total: 5.25 sec)
+[2024.01.09-09.18.53:669][750]AssetCheck: New page: Asset Save: MI_Weapon_Pistol
+[2024.01.09-09.18.53:669][750]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Pistol/MI_Weapon_Pistol.MI_Weapon_Pistol
+[2024.01.09-09.18.53:670][750]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.01.09-09.18.53:670][750]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.09-09.18.53:670][750]MaterialEditorStats: MaxSampler: 251 instructions
+[2024.01.09-09.18.53:670][750]MaterialEditorStats: Base pass vertex shader: 275 instructions
+[2024.01.09-09.18.53:670][750]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.09-09.18.53:670][750]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.09-09.18.53:670][750]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.09-09.18.53:670][750]MaterialEditorStats: Shader Count: 30
+[2024.01.09-09.18.56:813][108]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Pistol/SK_Pistol.SK_Pistol
+[2024.01.09-09.18.56:813][108]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.09-09.18.56:814][108]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.09-09.18.56:823][108]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.09-09.18.57:069][108]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2024.01.09-09.18.57:141][108]LogViewport: Scene viewport resized to 950x810, mode Windowed.
+[2024.01.09-09.19.01:427][453]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-09.19.01:427][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-09.19.07:254][558]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-09.19.07:254][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-09.19.07:274][558]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-09.19.07:274][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-09.19.07:311][558]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-09.19.07:311][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-09.19.07:825][615]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-09.19.07:825][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-09.19.07:859][615]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-09.19.07:859][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.09-09.19.08:782][721]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.01.09-09.19.08:782][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
