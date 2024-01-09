@@ -1,2 +1,106 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Arquivos temporários
+*.tmp
+*.swp
+*.DS_Store
+
+# Arquivos de log
+*.log
+*.txt
+
+# Arquivos de configuração
+*.uproject
+*.uprojectconfig
+*.ini
+
+# Arquivos de build
+*.Build.cs
+*.Build.target
+*.Build.settings
+*.generated.h
+
+# Arquivos de cache
+*.ucache
+
+# Arquivos de depuração
+*.pdb
+*.ipch
+
+# Arquivos de saída
+*.exe
+*.dll
+*.so
+*.app
+
+# Arquivos de terceiros
+**/ThirdParty/**
+
+# Arquivos de documentação
+**/Documentation/**
+
+# Arquivos de testes
+**/Tests/**
+
+# Arquivos de lixeira
+**/.gitignore
+**/.gitattributes
+**/.DS_Store
+**/Thumbs.db
+
+# Arquivos de projetos antigos
+**/[0-9]**
+
+# Arquivos de Visual Studio 2015
+.vs/
+
+# Arquivos compilados
+*.slo
+*.lo
+*.o
+*.obj
+*.gch
+*.pch
+*.so
+*.dylib
+*.dll
+*.mod
+*.lai
+*.la
+*.a
+*.lib
+*.exe
+*.out
+*.app
+*.ipa
+
+# Arquivos de ativos pré-compilados
+SourceArt/**/*.png
+SourceArt/**/*.tga
+
+# Arquivos binários
+Binaries/*
+Plugins/*/Binaries/*
+
+# Arquivos de build
+Build/*
+
+# Arquivos de configuração gerados pelo engine
+*.xcodeproj
+*.xcworkspace
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Arquivos de dados construídos para mapas
+*_BuiltData.uasset
+
+# Arquivos de configuração gerados pelo Editor
+Saved/*
+
+# Arquivos de origem compilados para uso pelo engine
+Intermediate/*
+
+# Arquivos de cache para uso pelo Editor
+DerivedDataCache/*
