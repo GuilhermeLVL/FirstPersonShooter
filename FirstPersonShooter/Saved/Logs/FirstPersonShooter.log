@@ -1605,3 +1605,446 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.10-09.04.34:187][ 80]AssetCheck: New page: Asset Save: multiple assets
 [2024.01.10-09.04.34:187][ 80]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/627087__clutvh__silenced-pistol-shot.627087__clutvh__silenced-pistol-shot
 [2024.01.10-09.04.34:187][ 80]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.10-09.05.36:577][712]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn_Simple) ...
+[2024.01.10-09.05.36:653][713]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-09.05.36:687][714]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-09.05.36:706][715]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-09.05.36:713][715]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_0
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:726][716]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_1
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:743][717]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_2
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:751][718]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_3
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:763][719]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_4
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:772][720]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_5
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:784][721]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_6
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:793][722]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_7
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:805][723]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_8
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:814][724]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_9
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:826][725]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_10
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:838][726]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_11
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:847][727]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_12
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:860][728]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_13
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:872][729]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_14
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:882][730]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_15
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:894][731]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_16
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:905][732]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_17
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:915][733]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_18
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:927][734]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_19
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:939][735]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_20
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:948][736]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_21
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:960][737]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_22
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:972][738]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_23
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:982][739]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_24
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.36:993][740]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_25
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.37:005][741]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_26
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.05.37:015][742]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_27
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.06.38:115][470]LogViewport: Scene viewport resized to 682x646, mode Windowed.
+[2024.01.10-09.06.47:795][617]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.01.10-09.06.58:692][907]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-09.06.58:731][909]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-09.07.08:987][109]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin) ...
+[2024.01.10-09.07.11:018][304]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-09.07.11:034][305]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_28
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.20:370][326]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny) ...
+[2024.01.10-09.07.20:557][327]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-09.07.22:340][538]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.01.10-09.07.22:423][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2024.01.10-09.07.23:625][652]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_29
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:740][914]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_30
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:741][914]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_31
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:748][915]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_32
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:756][916]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_33
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:767][917]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_34
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:776][918]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_35
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:788][919]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_36
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:800][920]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_37
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:809][921]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_38
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:827][922]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_39
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:839][923]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_40
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:850][924]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_41
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:859][925]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_42
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:871][926]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_43
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:883][927]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_44
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:893][928]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_45
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:905][929]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_46
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:917][930]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_47
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:926][931]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_48
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:939][932]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_49
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:951][933]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_50
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:960][934]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_51
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:972][935]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_52
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:984][936]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_53
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.34:993][937]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_54
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.35:005][938]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_55
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.35:017][939]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_56
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.35:026][940]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_57
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.35:038][941]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_58
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.35:050][942]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_59
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.35:057][943]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_60
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.35:065][944]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_61
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.35:075][945]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_62
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.35:087][946]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_63
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.35:096][947]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_64
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.07.49:088][108]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Characters/Mannequins/Animations/Manny/Body.Body
+[2024.01.10-09.07.49:098][108]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-09.07.49:098][108]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.10-09.07.49:105][108]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.10-09.07.49:339][108]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-09.07.49:339][108]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.10-09.07.49:516][108]LogViewport: Scene viewport resized to 551x505, mode Windowed.
+[2024.01.10-09.07.49:533][108]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.10-09.08.21:087][537]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_65
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.08.21:584][585]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_66
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.08.21:592][586]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_67
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.08.21:600][587]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_68
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.08.21:609][588]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_69
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.08.21:621][589]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_70
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.08.21:630][590]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_71
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.08.21:642][591]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_72
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.08.21:654][592]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_73
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.08.21:665][593]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_74
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.08.26:565][126]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2024.01.10-09.08.26:660][126]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2024.01.10-09.08.26:667][126]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-09.08.26:667][126]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.10-09.08.26:804][127]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-09.09.34:503][547]LogViewport: Scene viewport resized to 551x543, mode Windowed.
+[2024.01.10-09.10.40:517][473]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.01.10-09.10.41:661][495]Cmd: TRANSACTION UNDO
+[2024.01.10-09.10.41:661][495]LogEditorTransaction: Undo Paste Anim Notifies
+[2024.01.10-09.10.41:824][495]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.10-09.11.17:863][779]Cmd: TRANSACTION UNDO
+[2024.01.10-09.11.17:863][779]LogEditorTransaction: Undo Paste Anim Notifies
+[2024.01.10-09.11.18:039][779]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.10-09.11.39:579][322]Cmd: TRANSACTION UNDO
+[2024.01.10-09.11.39:579][322]LogEditorTransaction: Undo Paste Anim Notifies
+[2024.01.10-09.11.39:747][322]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.10-09.12.16:512][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.10-09.12.16:577][220]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd
+[2024.01.10-09.12.16:577][220]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/MM_Walk_Fwd0D09A5644872CD0879A6B5B9372AE87E.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset'
+[2024.01.10-09.12.16:584][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 388 ms)
+[2024.01.10-09.12.16:586][220]AssetCheck: New page: Asset Save: MM_Walk_Fwd
+[2024.01.10-09.12.16:586][220]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2024.01.10-09.12.19:527][379]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.10-09.12.19:534][379]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.10-09.12.19:534][379]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.10-09.12.19:536][379]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 7 ms)
+[2024.01.10-09.12.19:536][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.10-09.12.19:536][379]PIE: New page: PIE session: FirstPersonMap (10 de jan de 2024 03:12:19)
+[2024.01.10-09.12.19:560][379]LogPlayLevel: Display: Creating online subsystem for client :Context_27
+[2024.01.10-09.12.19:563][379]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.01.10-09.12.19:578][380]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.10-09.12.19:583][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004785s)
+[2024.01.10-09.12.19:583][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004822s)
+[2024.01.10-09.12.19:603][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.01.10-09.12.19:606][380]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-09.12.19:606][380]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.10-09.12.19:606][380]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.10-09.12.19:607][380]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.10-09.12.19:607][380]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.10-09.12.19:607][380]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.10-09.12.19:607][380]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.10-09.12.19:608][380]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.10-09.12.19:608][380]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 68 ms)
+[2024.01.10-09.12.19:608][380]LogPlayLevel: PIE: World Init took: (0.002525s)
+[2024.01.10-09.12.19:608][380]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.01.10-09.12.19:608][380]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.10-09.12.19:608][380]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.10-09.12.19:608][380]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.10-09.12.19:608][380]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.10-09.12.19:608][380]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.10-09.12.19:608][380]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.10-09.12.19:608][380]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.10-09.12.19:608][380]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.10-09.12.19:608][380]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.10-09.12.19:608][380]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.10-09.12.19:608][380]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.10-09.12.19:610][380]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.10-09.12.19:633][380]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.10-09.12.19:633][380]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.10-09.12.19:633][380]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.10-09.12.19:633][380]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.10-09.12.19:634][380]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.01.10-09.12.19:634][380]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.01.10-09.12.19:636][380]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.01.10-09.12.19:636][380]LogInit: FAudioDevice initialized with ID 4.
+[2024.01.10-09.12.19:636][380]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.01.10-09.12.19:636][380]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2024.01.10-09.12.19:636][380]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.01.10-09.12.19:638][380]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.10-09.12.19:640][380]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.10-06.12.19
+[2024.01.10-09.12.19:640][380]LogWorld: Bringing up level for play took: 0.002281
+[2024.01.10-09.12.19:645][380]PIE: Server logged in
+[2024.01.10-09.12.19:646][380]PIE: Play in editor total start time 0,112 seconds.
+[2024.01.10-09.14.01:220][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.10-09.14.01:220][559]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.10-09.14.01:220][559]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.10-09.14.01:220][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.10-09.14.01:220][559]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.10-09.14.01:223][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.10-09.14.01:226][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.10-09.14.01:242][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.10-09.14.01:243][559]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.01.10-09.14.01:243][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.01.10-09.14.01:245][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.01.10-09.14.01:252][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.10-09.14.01:307][561]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.01.10-09.15.08:267][178]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.01.10-09.15.08:346][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.01.10-09.15.08:672][189]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.01.10-09.15.08:759][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.01.10-09.15.11:435][427]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.10-09.15.11:441][427]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.10-09.15.11:441][427]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.10-09.15.11:444][427]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 10 ms)
+[2024.01.10-09.15.11:444][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.10-09.15.11:444][427]PIE: New page: PIE session: FirstPersonMap (10 de jan de 2024 03:15:11)
+[2024.01.10-09.15.11:444][427]LogPlayLevel: Display: Creating online subsystem for client :Context_28
+[2024.01.10-09.15.11:446][427]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.01.10-09.15.11:463][428]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.10-09.15.11:470][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006241s)
+[2024.01.10-09.15.11:470][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006287s)
+[2024.01.10-09.15.11:488][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.10-09.15.11:493][428]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-09.15.11:493][428]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.10-09.15.11:494][428]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.10-09.15.11:495][428]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.10-09.15.11:495][428]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.10-09.15.11:495][428]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.10-09.15.11:495][428]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.10-09.15.11:496][428]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.10-09.15.11:496][428]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 70 ms)
+[2024.01.10-09.15.11:496][428]LogPlayLevel: PIE: World Init took: (0.003473s)
+[2024.01.10-09.15.11:496][428]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.01.10-09.15.11:496][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.10-09.15.11:496][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.10-09.15.11:496][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.10-09.15.11:496][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.10-09.15.11:496][428]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.10-09.15.11:496][428]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.10-09.15.11:496][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.10-09.15.11:496][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.10-09.15.11:497][428]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.10-09.15.11:497][428]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.10-09.15.11:497][428]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.10-09.15.11:499][428]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.10-09.15.11:521][428]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.10-09.15.11:521][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.10-09.15.11:521][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.10-09.15.11:521][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.10-09.15.11:522][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.01.10-09.15.11:522][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.01.10-09.15.11:523][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.01.10-09.15.11:524][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.01.10-09.15.11:524][428]LogInit: FAudioDevice initialized with ID 5.
+[2024.01.10-09.15.11:524][428]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2024.01.10-09.15.11:524][428]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.01.10-09.15.11:525][428]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.10-09.15.11:528][428]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.10-06.15.11
+[2024.01.10-09.15.11:528][428]LogWorld: Bringing up level for play took: 0.002565
+[2024.01.10-09.15.11:535][428]PIE: Server logged in
+[2024.01.10-09.15.11:536][428]PIE: Play in editor total start time 0,095 seconds.
+[2024.01.10-09.15.17:690][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.10-09.15.17:690][155]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.10-09.15.17:690][155]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.10-09.15.17:690][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.10-09.15.17:690][155]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.10-09.15.17:694][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.10-09.15.17:699][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.10-09.15.17:716][155]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.10-09.15.17:717][155]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.01.10-09.15.17:717][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.01.10-09.15.17:719][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.01.10-09.15.17:723][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.10-09.15.17:726][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.01.10-09.15.17:765][156]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.01.10-09.15.32:771][297]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Body_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Body_C_75
+	Function /Game/Characters/Mannequins/Animations/Manny/ABP_Body.ABP_Body_C:ExecuteUbergraph_ABP_Body:0040
+[2024.01.10-09.15.41:951][531]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.10-09.15.41:956][531]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.01.10-09.15.41:961][531]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.01.10-09.15.41:970][532]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.01.10-09.15.52:057][625]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.01.10-09.15.52:063][625]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.01.10-09.16.03:649][657]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Dummy
+[2024.01.10-09.16.03:676][657]LogMetaData: Removing '/Game/Blueprints/BP_Dummy.BP_Dummy:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.10-09.16.03:676][657]LogMetaData: Removing '/Game/Blueprints/BP_Dummy.SKEL_BP_Dummy_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.10-09.16.03:676][657]LogMetaData: Removing '/Game/Blueprints/BP_Dummy.SKEL_BP_Dummy_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.10-09.16.03:676][657]LogMetaData: Removing '/Game/Blueprints/BP_Dummy.BP_Dummy_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.10-09.16.03:676][657]LogMetaData: Removing '/Game/Blueprints/BP_Dummy.BP_Dummy:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.10-09.16.03:676][657]LogMetaData: Removing '/Game/Blueprints/BP_Dummy.BP_Dummy:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.10-09.16.03:676][657]LogMetaData: Removing '/Game/Blueprints/BP_Dummy.BP_Dummy:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2024.01.10-09.16.03:678][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.10-09.16.03:696][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Dummy" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Blueprints/BP_Dummy.uasset" SILENT=true
+[2024.01.10-09.16.03:703][657]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Dummy
+[2024.01.10-09.16.03:703][657]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/BP_DummyCDDCE168450C904E492C6C8F85E5201E.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Blueprints/BP_Dummy.uasset'
+[2024.01.10-09.16.03:712][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 422 ms)
+[2024.01.10-09.16.03:734][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.01.10-09.16.03:753][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.01.10-09.16.03:767][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.10-09.16.03:769][657]AssetCheck: New page: Asset Save: BP_Dummy
+[2024.01.10-09.16.03:769][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Dummy.BP_Dummy
+[2024.01.10-09.16.06:208][764]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Dummy.BP_Dummy
+[2024.01.10-09.16.06:208][764]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-09.16.06:209][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.10-09.16.06:397][764]LogViewport: Scene viewport resized to 682x646, mode Windowed.
+[2024.01.10-09.16.42:092][195]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-09.17.31:750][501]BlueprintLog: New page: Compile BP_Dummy
+[2024.01.10-09.17.31:802][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.01.10-09.18.33:218][250]LogSlate: Took 0.005908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.01.10-09.18.44:560][969]BlueprintLog: New page: Compile BP_Dummy
+[2024.01.10-09.18.44:596][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.01.10-09.19.05:835][476]LogEditorTransaction: Undo Add Node
+[2024.01.10-09.19.05:977][476]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.10-09.22.47:204][194]BlueprintLog: New page: Compile BP_Dummy
+[2024.01.10-09.22.47:266][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
