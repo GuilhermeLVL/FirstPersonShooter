@@ -75,6 +75,7 @@ DerivedDataCache/*
 
 # Ignorar pastas
 /InfinityBladeEffects
+Content/InfinityBladeEffects
 
 # Ignorar pastas específicas
 /InfinityBladeEffects/Particles
