@@ -73,10 +73,10 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# Ignorar pastas
+# Ignore InfinityBladeEffects folders
 /InfinityBladeEffects
 Content/InfinityBladeEffects
 
-# Ignorar pastas específicas
+# Ignore specific folders within InfinityBladeEffects
 /InfinityBladeEffects/Particles
 /InfinityBladeEffects/Materials
