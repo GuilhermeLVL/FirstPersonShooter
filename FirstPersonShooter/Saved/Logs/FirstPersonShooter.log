@@ -1597,3 +1597,36 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2024.01.10-08.06.33:090][737]LogPackageName: SearchForPackageOnDisk took   0.051s to resolve m_FogSheet_02.
 [2024.01.10-08.06.33:091][737]LogPackageName: SearchForPackageOnDisk took   0.051s to resolve m_FogSheet_02.
 [2024.01.10-08.06.33:093][737]LogPackageName: SearchForPackageOnDisk took   0.053s to resolve m_FogSheet_02.
+[2024.01.10-08.06.33:986][739]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2024.01.10-08.06.33:986][739]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2024.01.10-08.06.33:986][739]LogPackageName: Warning: Asset path "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2024.01.10-08.06.33:986][739]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2024.01.10-08.06.34:026][739]LogPackageName: SearchForPackageOnDisk took   0.040s to resolve S_Survival_CA_Chicken_02.
+[2024.01.10-08.06.34:034][739]LogPackageName: SearchForPackageOnDisk took   0.048s, but failed to resolve JW_Ice_Mountain.
+[2024.01.10-08.06.34:034][739]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2024.01.10-08.06.34:056][739]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2024.01.10-08.06.34:056][739]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2024.01.10-08.06.34:083][739]LogPackageName: SearchForPackageOnDisk took   0.027s, but failed to resolve JW_Ice_Mountain.
+[2024.01.10-08.06.34:083][739]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2024.01.10-08.06.34:083][739]LogPackageName: Warning: Asset path "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2024.01.10-08.06.34:083][739]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2024.01.10-08.06.34:097][739]LogPackageName: SearchForPackageOnDisk took   0.014s to resolve S_Survival_CA_Chicken_02.
+[2024.01.10-08.06.34:131][740]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2024.01.10-08.06.34:131][740]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2024.01.10-08.06.34:131][740]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2024.01.10-08.06.34:131][740]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2024.01.10-08.06.34:169][740]LogPackageName: SearchForPackageOnDisk took   0.038s, but failed to resolve Env_ALL_Artifacts.
+[2024.01.10-08.06.34:169][740]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2024.01.10-08.06.34:169][740]LogPackageName: SearchForPackageOnDisk took   0.038s, but failed to resolve JW_Ice_Mountain.
+[2024.01.10-08.06.34:169][740]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2024.01.10-08.06.34:170][740]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2024.01.10-08.06.34:170][740]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2024.01.10-08.06.34:170][740]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2024.01.10-08.06.34:170][740]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2024.01.10-08.06.34:215][740]LogPackageName: SearchForPackageOnDisk took   0.045s, but failed to resolve JW_Ice_Mountain.
+[2024.01.10-08.06.34:215][740]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2024.01.10-08.06.34:216][740]LogPackageName: SearchForPackageOnDisk took   0.046s, but failed to resolve Env_ALL_Artifacts.
+[2024.01.10-08.06.34:216][740]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2024.01.10-08.06.36:122][746]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2024.01.10-08.06.36:122][746]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2024.01.10-08.06.36:122][746]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Developers/l0l/Collections/' because it could not be accessed. Aborting watch request...
