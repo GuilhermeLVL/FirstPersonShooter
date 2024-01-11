@@ -2837,3 +2837,48 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.11-08.52.54:035][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.01.11-08.52.54:039][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
 [2024.01.11-08.52.54:074][630]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.01.11-08.53.37:921][865]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.11-08.53.37:928][865]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.11-08.53.37:934][866]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.11-08.53.42:657][364]LogContentBrowser: Attempting asset rename: NewFolder -> AI
+[2024.01.11-08.53.42:658][364]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.11-08.54.06:622][875]LogContentBrowser: Deferred new asset file creation: NewBlackboardData
+[2024.01.11-08.54.06:627][875]LogContentBrowser: Creating deferred item: NewBlackboardData
+[2024.01.11-08.54.06:645][877]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlackboardData).
+[2024.01.11-08.54.15:830][ 11]LogContentBrowser: Attempting asset rename: NewBlackboardData -> NewBlackboardData
+[2024.01.11-08.54.15:832][ 11]LogContentBrowser: End creating deferred item NewBlackboardData
+[2024.01.11-08.54.27:173][184]LogContentBrowser: Attempting asset rename: NewBlackboardData -> BD_AI
+[2024.01.11-08.54.27:232][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-08.54.27:258][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BD_AI" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/AI/BD_AI.uasset" SILENT=true
+[2024.01.11-08.54.27:266][184]LogPackageLocalizationCache: Processed 46 localized package path(s) for 2 prioritized culture(s) in 0.007576 seconds
+[2024.01.11-08.54.27:269][184]LogSavePackage: Moving output files for package: /Game/AI/BD_AI
+[2024.01.11-08.54.27:269][184]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/BD_AID248AAEE4AB13DC2AB66168D86C1C3F9.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/AI/BD_AI.uasset'
+[2024.01.11-08.54.27:278][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms
+[2024.01.11-08.54.27:307][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.01.11-08.54.27:325][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.01.11-08.54.27:335][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.01.11-08.54.27:336][184]AssetCheck: New page: Asset Save: BD_AI
+[2024.01.11-08.54.27:336][184]LogContentValidation: Display: Validating /Script/AIModule.BlackboardData /Game/AI/BD_AI.BD_AI
+[2024.01.11-08.54.36:525][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.01.11-08.54.37:748][367]LogSlate: Window 'Save Content' being destroyed
+[2024.01.11-08.54.37:753][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-08.54.37:782][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.11-08.54.37:794][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.01.11-08.54.37:805][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.01.11-08.54.37:807][367]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-08.54.37:826][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Dummy" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Blueprints/BP_Dummy.uasset" SILENT=true
+[2024.01.11-08.54.37:833][367]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Dummy
+[2024.01.11-08.54.37:834][367]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/BP_DummyF8BE3698421345B49F975F8DA1A12E32.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Blueprints/BP_Dummy.uasset'
+[2024.01.11-08.54.37:836][367]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/A1/CVMGV1DNV75FN25QMAGX2H
+[2024.01.11-08.54.37:836][367]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/CVMGV1DNV75FN25QMAGX2HC5E3376A459381B104CBFE84929EBE49.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/A1/CVMGV1DNV75FN25QMAGX2H.uasset'
+[2024.01.11-08.54.37:838][367]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-08.54.37:875][367]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.11-08.54.37:876][367]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/BP_FirstPersonCharacter262408384D9923A0084321B9F0977ED2.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.11-08.54.37:889][367]LogSavePackage: Moving output files for package: /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Player_Fire_Medium1
+[2024.01.11-08.54.37:889][367]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/P_Impact_Player_Fire_Medium134DC177B4C591ABD240E6CB49AFEF846.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Player_Fire_Medium1.uasset'
+[2024.01.11-08.54.37:896][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 188 ms)
+[2024.01.11-08.54.37:898][367]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.11-08.54.37:898][367]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Dummy.BP_Dummy
+[2024.01.11-08.54.37:898][367]LogContentValidation: Display: Validating /Game/Blueprints/BP_Dummy.BP_Dummy_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Dummy_C_UAID_00E269643BCB70CE01_1863460408
+[2024.01.11-08.54.37:898][367]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.11-08.54.37:898][367]LogContentValidation: Display: Validating /Script/Engine.ParticleSystem /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Player_Fire_Medium1.P_Impact_Player_Fire_Medium1
