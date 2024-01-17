@@ -1675,3 +1675,23 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.17-09.00.12:887][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
 [2024.01.17-09.00.12:896][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
 [2024.01.17-09.00.12:968][424]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.01.17-09.00.57:427][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.01.17-09.00.57:434][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-09.00.57:490][ 40]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.17-09.00.57:491][ 40]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/BP_FirstPersonCharacterA0E2BFF746E99F6DEBA018B59F889171.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.17-09.00.57:493][ 40]LogSavePackage: Moving output files for package: /Game/Audio/506514__matrixxx__monster-aah
+[2024.01.17-09.00.57:493][ 40]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/506514__matrixxx__monster-aahC05D569C427469536450319FD0E7BF4D.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Audio/506514__matrixxx__monster-aah.uasset'
+[2024.01.17-09.00.57:498][ 40]LogSavePackage: Moving output files for package: /Game/Audio/547203__mrfossy__voice_adultmale_paingrunts_01
+[2024.01.17-09.00.57:498][ 40]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/547203__mrfossy__voice_adultmale3B1975B0422B368110BC8F9F12E902FC.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Audio/547203__mrfossy__voice_adultmale_paingrunts_01.uasset'
+[2024.01.17-09.00.57:514][ 40]LogSavePackage: Moving output files for package: /Game/Audio/321723__rhodesmas__deep-space-vibrations-ambience-loop
+[2024.01.17-09.00.57:514][ 40]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/321723__rhodesmas__deep-space-vi4BC9CBDF475AD1DC827046B2A5DD2654.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Audio/321723__rhodesmas__deep-space-vibrations-ambience-loop.uasset'
+[2024.01.17-09.00.57:515][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/MS_Grunt" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Audio/MS_Grunt.uasset" SILENT=true
+[2024.01.17-09.00.57:524][ 40]LogSavePackage: Moving output files for package: /Game/Audio/MS_Grunt
+[2024.01.17-09.00.57:525][ 40]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/MS_Grunt2B6D902E41FC9302F66B588C8B054E71.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Audio/MS_Grunt.uasset'
+[2024.01.17-09.00.57:529][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 265 ms)
+[2024.01.17-09.00.57:532][ 40]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.17-09.00.57:532][ 40]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.17-09.00.57:533][ 40]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/506514__matrixxx__monster-aah.506514__matrixxx__monster-aah
+[2024.01.17-09.00.57:533][ 40]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/547203__mrfossy__voice_adultmale_paingrunts_01.547203__mrfossy__voice_adultmale_paingrunts_01
+[2024.01.17-09.00.57:533][ 40]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/321723__rhodesmas__deep-space-vibrations-ambience-loop.321723__rhodesmas__deep-space-vibrations-ambience-loop
+[2024.01.17-09.00.57:533][ 40]LogContentValidation: Display: Validating /Script/MetasoundEngine.MetaSoundSource /Game/Audio/MS_Grunt.MS_Grunt
