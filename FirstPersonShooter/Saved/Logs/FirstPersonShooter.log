@@ -3050,3 +3050,17 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.17-09.33.24:115][369]LogContentValidation: Display: Validating /Game/AI/BP_AI.BP_AI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_AI_C_UAID_00E269643BCB56D001_1698179945
 [2024.01.17-09.33.24:115][369]LogContentValidation: Display: Validating /Game/AI/BP_AI.BP_AI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_AI_C_UAID_00E269643BCB56D001_1693245944
 [2024.01.17-09.33.24:115][369]LogContentValidation: Display: Validating /Game/AI/BP_AI.BP_AI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_AI_C_UAID_00E269643BCB56D001_1683556943
+[2024.01.17-09.38.38:283][639]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2024.01.17-09.38.38:291][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-09.38.38:329][639]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.17-09.38.38:330][639]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/BP_FirstPersonCharacter72E08D4141E1926641DAE482FFCE10BB.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.17-09.38.38:338][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AI" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/AI/BP_AI.uasset" SILENT=true
+[2024.01.17-09.38.38:351][639]LogSavePackage: Moving output files for package: /Game/AI/BP_AI
+[2024.01.17-09.38.38:352][639]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/BP_AI87580F0843E56EBA98EB3D9AA963B91D.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/AI/BP_AI.uasset'
+[2024.01.17-09.38.38:355][639]LogSavePackage: Moving output files for package: /Game/FirstPersonArms/Animations/Pistol-Shot_Montage
+[2024.01.17-09.38.38:356][639]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Pistol-Shot_MontageD8F3ADA24AB660ECA88EF894FD2D4C5D.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/FirstPersonArms/Animations/Pistol-Shot_Montage.uasset'
+[2024.01.17-09.38.38:362][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 953 ms)
+[2024.01.17-09.38.38:365][639]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.17-09.38.38:365][639]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.17-09.38.38:365][639]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BP_AI.BP_AI
+[2024.01.17-09.38.38:365][639]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/FirstPersonArms/Animations/Pistol-Shot_Montage.Pistol-Shot_Montage
