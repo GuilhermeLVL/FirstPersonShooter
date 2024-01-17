@@ -104,3 +104,6 @@ Intermediate/*
 
 # Arquivos de cache para uso pelo Editor
 DerivedDataCache/*
+
+# Ignorar itens da pasta MSPresets
+/MSPresets/**
