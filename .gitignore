@@ -82,4 +82,4 @@ Content/InfinityBladeEffects
 /InfinityBladeEffects/Materials
 
 # Ignorar itens da pasta MSPresets
-/MSPresets/**
+Content/MSPresets/***
