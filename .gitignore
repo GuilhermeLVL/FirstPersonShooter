@@ -80,3 +80,6 @@ Content/InfinityBladeEffects
 # Ignore specific folders within InfinityBladeEffects
 /InfinityBladeEffects/Particles
 /InfinityBladeEffects/Materials
+
+# Ignorar itens da pasta MSPresets
+/MSPresets/**
