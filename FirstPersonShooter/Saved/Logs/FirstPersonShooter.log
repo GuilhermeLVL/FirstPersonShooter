@@ -1695,3 +1695,1331 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.17-09.00.57:533][ 40]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/547203__mrfossy__voice_adultmale_paingrunts_01.547203__mrfossy__voice_adultmale_paingrunts_01
 [2024.01.17-09.00.57:533][ 40]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/321723__rhodesmas__deep-space-vibrations-ambience-loop.321723__rhodesmas__deep-space-vibrations-ambience-loop
 [2024.01.17-09.00.57:533][ 40]LogContentValidation: Display: Validating /Script/MetasoundEngine.MetaSoundSource /Game/Audio/MS_Grunt.MS_Grunt
+[2024.01.17-09.01.29:158][974]LogContentBrowser: Deferred new asset file creation: NewSoundAttenuation
+[2024.01.17-09.01.29:169][974]LogContentBrowser: Creating deferred item: NewSoundAttenuation
+[2024.01.17-09.01.29:183][975]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundAttenuation).
+[2024.01.17-09.01.34:796][264]LogContentBrowser: Attempting asset rename: NewSoundAttenuation -> a
+[2024.01.17-09.01.34:798][264]LogContentBrowser: End creating deferred item NewSoundAttenuation
+[2024.01.17-09.01.57:307][991]LogContentBrowser: Attempting asset rename: a -> SA_
+[2024.01.17-09.01.57:339][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-09.01.57:356][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SA_" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Audio/SA_.uasset" SILENT=true
+[2024.01.17-09.01.57:357][991]LogSavePackage: Moving output files for package: /Game/Audio/SA_
+[2024.01.17-09.01.57:357][991]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/SA_51385F904BEC49831CE4C18EC87C22AC.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Audio/SA_.uasset'
+[2024.01.17-09.01.57:364][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 24 ms (total: 290 ms)
+[2024.01.17-09.01.57:391][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.01.17-09.01.57:410][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.01.17-09.01.57:426][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.17-09.01.57:600][991]AssetCheck: New page: Asset Save: SA_
+[2024.01.17-09.01.57:600][991]LogContentValidation: Display: Validating /Script/Engine.SoundAttenuation /Game/Audio/SA_.SA_
+[2024.01.17-09.02.22:225][984]LogContentBrowser: Attempting asset rename: SA_ -> SA_chacter
+[2024.01.17-09.02.22:256][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-09.02.22:278][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SA_chacter" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Audio/SA_chacter.uasset" SILENT=true
+[2024.01.17-09.02.22:278][984]LogSavePackage: Moving output files for package: /Game/Audio/SA_chacter
+[2024.01.17-09.02.22:278][984]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/SA_chacter050B85BE4A9917B12E8C13932841EC9B.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Audio/SA_chacter.uasset'
+[2024.01.17-09.02.22:289][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 323 ms)
+[2024.01.17-09.02.22:312][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.01.17-09.02.22:330][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.01.17-09.02.22:346][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.17-09.02.22:349][984]AssetCheck: New page: Asset Save: SA_chacter
+[2024.01.17-09.02.22:349][984]LogContentValidation: Display: Validating /Script/Engine.SoundAttenuation /Game/Audio/SA_chacter.SA_chacter
+[2024.01.17-09.02.31:450][ 96]LogAssetEditorSubsystem: Opening Asset editor for SoundAttenuation /Game/Audio/SA_chacter.SA_chacter
+[2024.01.17-09.02.57:155][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-09.02.57:202][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SA_chacter" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Audio/SA_chacter.uasset" SILENT=true
+[2024.01.17-09.02.57:204][711]LogSavePackage: Moving output files for package: /Game/Audio/SA_chacter
+[2024.01.17-09.02.57:205][711]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/SA_chacter8DE69C0C44A6154DE43199805981843A.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Audio/SA_chacter.uasset'
+[2024.01.17-09.02.57:212][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 380 ms)
+[2024.01.17-09.02.57:212][711]AssetCheck: New page: Asset Save: SA_chacter
+[2024.01.17-09.02.57:212][711]LogContentValidation: Display: Validating /Script/Engine.SoundAttenuation /Game/Audio/SA_chacter.SA_chacter
+[2024.01.17-09.03.00:364][923]LogSlate: Window 'SA_chacter' being destroyed
+[2024.01.17-09.03.15:323][198]LogAssetEditorSubsystem: Opening Asset editor for MetaSoundSource /Game/Audio/MS_Footstep.MS_Footstep
+[2024.01.17-09.03.30:173][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-09.03.30:189][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/MS_Footstep" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Audio/MS_Footstep.uasset" SILENT=true
+[2024.01.17-09.03.30:211][869]LogSavePackage: Moving output files for package: /Game/Audio/MS_Footstep
+[2024.01.17-09.03.30:212][869]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/MS_FootstepDD893F044070F93DD47C7DAAAA160258.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Audio/MS_Footstep.uasset'
+[2024.01.17-09.03.30:217][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 424 ms)
+[2024.01.17-09.03.30:220][869]AssetCheck: New page: Asset Save: MS_Footstep
+[2024.01.17-09.03.30:220][869]LogContentValidation: Display: Validating /Script/MetasoundEngine.MetaSoundSource /Game/Audio/MS_Footstep.MS_Footstep
+[2024.01.17-09.03.35:172][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-09.03.35:189][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/MS_Footstep" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Audio/MS_Footstep.uasset" SILENT=true
+[2024.01.17-09.03.35:210][262]LogSavePackage: Moving output files for package: /Game/Audio/MS_Footstep
+[2024.01.17-09.03.35:210][262]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/MS_FootstepA03D730A447E8258828C2BA2F3447987.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Audio/MS_Footstep.uasset'
+[2024.01.17-09.03.35:214][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 466 ms)
+[2024.01.17-09.03.35:217][262]AssetCheck: New page: Asset Save: MS_Footstep
+[2024.01.17-09.03.35:217][262]LogContentValidation: Display: Validating /Script/MetasoundEngine.MetaSoundSource /Game/Audio/MS_Footstep.MS_Footstep
+[2024.01.17-09.03.42:138][983]LogAssetEditorSubsystem: Opening Asset editor for MetaSoundSource /Game/Audio/MS_Grunt.MS_Grunt
+[2024.01.17-09.03.47:110][330]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-09.03.47:151][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/MS_Grunt" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Audio/MS_Grunt.uasset" SILENT=true
+[2024.01.17-09.03.47:171][330]LogSavePackage: Moving output files for package: /Game/Audio/MS_Grunt
+[2024.01.17-09.03.47:172][330]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/MS_Grunt9B8F41F1407C285ED351E283BB4EC9CC.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Audio/MS_Grunt.uasset'
+[2024.01.17-09.03.47:178][330]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 534 ms)
+[2024.01.17-09.03.47:179][330]AssetCheck: New page: Asset Save: MS_Grunt
+[2024.01.17-09.03.47:179][330]LogContentValidation: Display: Validating /Script/MetasoundEngine.MetaSoundSource /Game/Audio/MS_Grunt.MS_Grunt
+[2024.01.17-09.03.48:028][391]LogSlate: Window 'MS_Grunt' being destroyed
+[2024.01.17-09.03.50:725][611]LogAssetEditorSubsystem: Opening Asset editor for MetaSoundSource /Game/Audio/MS_PistolFire.MS_PistolFire
+[2024.01.17-09.03.55:413][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-09.03.55:437][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/MS_PistolFire" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Audio/MS_PistolFire.uasset" SILENT=true
+[2024.01.17-09.03.55:460][152]LogSavePackage: Moving output files for package: /Game/Audio/MS_PistolFire
+[2024.01.17-09.03.55:461][152]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/MS_PistolFire3CD0C947471365C58827D6B2F2C1317B.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/Audio/MS_PistolFire.uasset'
+[2024.01.17-09.03.55:468][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 589 ms)
+[2024.01.17-09.03.55:469][152]AssetCheck: New page: Asset Save: MS_PistolFire
+[2024.01.17-09.03.55:469][152]LogContentValidation: Display: Validating /Script/MetasoundEngine.MetaSoundSource /Game/Audio/MS_PistolFire.MS_PistolFire
+[2024.01.17-09.04.34:255][401]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.17-09.04.34:261][401]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.17-09.04.34:261][401]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.17-09.04.34:263][401]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 13 ms)
+[2024.01.17-09.04.34:263][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.17-09.04.34:263][401]PIE: New page: PIE session: FirstPersonMap (17 de jan de 2024 03:04:34)
+[2024.01.17-09.04.34:287][401]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.17-09.04.34:292][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004939s)
+[2024.01.17-09.04.34:292][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004977s)
+[2024.01.17-09.04.34:310][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.01.17-09.04.34:314][401]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.04.34:314][401]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.04.34:314][401]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.17-09.04.34:315][401]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.17-09.04.34:315][401]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.17-09.04.34:315][401]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.17-09.04.34:315][401]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.17-09.04.34:317][401]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.17-09.04.34:317][401]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 640 ms)
+[2024.01.17-09.04.34:317][401]LogPlayLevel: PIE: World Init took: (0.003719s)
+[2024.01.17-09.04.34:317][401]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.01.17-09.04.34:317][401]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.17-09.04.34:317][401]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.17-09.04.34:317][401]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.17-09.04.34:317][401]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.17-09.04.34:317][401]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.17-09.04.34:317][401]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.17-09.04.34:317][401]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.17-09.04.34:317][401]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.17-09.04.34:318][401]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.17-09.04.34:318][401]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.17-09.04.34:318][401]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.17-09.04.34:320][401]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.17-09.04.34:342][401]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.17-09.04.34:342][401]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.17-09.04.34:342][401]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.17-09.04.34:342][401]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.17-09.04.34:343][401]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.01.17-09.04.34:343][401]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.01.17-09.04.34:344][401]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.01.17-09.04.34:344][401]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.01.17-09.04.34:344][401]LogInit: FAudioDevice initialized with ID 7.
+[2024.01.17-09.04.34:344][401]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonMap'.
+[2024.01.17-09.04.34:344][401]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.01.17-09.04.34:347][401]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.17-09.04.34:351][401]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.17-06.04.34
+[2024.01.17-09.04.34:351][401]LogWorld: Bringing up level for play took: 0.003444
+[2024.01.17-09.04.34:353][401]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.01.17-09.04.34:359][401]PIE: Server logged in
+[2024.01.17-09.04.34:360][401]PIE: Play in editor total start time 0,098 seconds.
+[2024.01.17-09.04.55:287][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-09.04.55:287][896]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.17-09.04.55:288][896]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-09.04.55:288][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.04.55:288][896]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.17-09.04.55:291][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.17-09.04.55:295][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.04.55:311][896]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.17-09.04.55:311][896]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.01.17-09.04.55:311][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.01.17-09.04.55:313][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.01.17-09.04.55:317][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-09.04.55:321][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.01.17-09.04.55:386][897]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.01.17-09.05.12:349][142]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.05.20:038][454]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.05.57:312][890]LogEditorTransaction: Undo Add Node
+[2024.01.17-09.05.57:480][890]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.17-09.08.17:035][129]BlueprintLog: New page: Compile BP_AI
+[2024.01.17-09.08.17:081][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.01.17-09.08.18:721][265]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.17-09.08.18:728][265]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.17-09.08.18:728][265]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.17-09.08.18:731][265]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 16 ms)
+[2024.01.17-09.08.18:731][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.17-09.08.18:731][265]PIE: New page: PIE session: FirstPersonMap (17 de jan de 2024 03:08:18)
+[2024.01.17-09.08.18:731][265]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.17-09.08.18:739][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008162s)
+[2024.01.17-09.08.18:739][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.008206s)
+[2024.01.17-09.08.18:757][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.17-09.08.18:760][265]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.08.18:760][265]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.08.18:761][265]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.17-09.08.18:761][265]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.17-09.08.18:761][265]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.17-09.08.18:762][265]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.17-09.08.18:762][265]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.17-09.08.18:764][265]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.17-09.08.18:764][265]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 642 ms)
+[2024.01.17-09.08.18:764][265]LogPlayLevel: PIE: World Init took: (0.004000s)
+[2024.01.17-09.08.18:764][265]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.01.17-09.08.18:764][265]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.17-09.08.18:764][265]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.17-09.08.18:764][265]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.17-09.08.18:764][265]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.17-09.08.18:764][265]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.17-09.08.18:764][265]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.17-09.08.18:764][265]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.17-09.08.18:764][265]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.17-09.08.18:764][265]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.17-09.08.18:764][265]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.17-09.08.18:764][265]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.17-09.08.18:766][265]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.17-09.08.18:791][265]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.17-09.08.18:792][265]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.17-09.08.18:792][265]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.17-09.08.18:792][265]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.17-09.08.18:792][265]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.01.17-09.08.18:792][265]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.01.17-09.08.18:794][265]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.01.17-09.08.18:794][265]LogInit: FAudioDevice initialized with ID 8.
+[2024.01.17-09.08.18:794][265]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.01.17-09.08.18:794][265]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonMap'.
+[2024.01.17-09.08.18:794][265]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.01.17-09.08.18:796][265]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.17-09.08.18:800][265]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.17-06.08.18
+[2024.01.17-09.08.18:800][265]LogWorld: Bringing up level for play took: 0.003633
+[2024.01.17-09.08.18:803][265]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.01.17-09.08.18:810][265]PIE: Server logged in
+[2024.01.17-09.08.18:811][265]PIE: Play in editor total start time 0,083 seconds.
+[2024.01.17-09.08.29:008][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-09.08.29:008][476]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.17-09.08.29:009][476]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-09.08.29:009][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.08.29:009][476]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.17-09.08.29:012][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.17-09.08.29:017][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.08.29:034][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-09.08.29:034][476]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.01.17-09.08.29:035][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.01.17-09.08.29:036][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.01.17-09.08.29:044][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.01.17-09.08.29:135][477]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.01.17-09.08.31:651][601]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.17-09.08.31:657][601]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.17-09.08.31:657][601]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.17-09.08.31:659][601]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 17 ms)
+[2024.01.17-09.08.31:659][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.17-09.08.31:659][601]PIE: New page: PIE session: FirstPersonMap (17 de jan de 2024 03:08:31)
+[2024.01.17-09.08.31:687][601]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.17-09.08.31:694][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007404s)
+[2024.01.17-09.08.31:694][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.007457s)
+[2024.01.17-09.08.31:710][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.01.17-09.08.31:712][601]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.08.31:712][601]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.08.31:713][601]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.17-09.08.31:713][601]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.17-09.08.31:713][601]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.17-09.08.31:713][601]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.17-09.08.31:713][601]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.17-09.08.31:715][601]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.17-09.08.31:715][601]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 644 ms)
+[2024.01.17-09.08.31:715][601]LogPlayLevel: PIE: World Init took: (0.002696s)
+[2024.01.17-09.08.31:715][601]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.01.17-09.08.31:715][601]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.17-09.08.31:715][601]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.17-09.08.31:715][601]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.17-09.08.31:715][601]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.17-09.08.31:715][601]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.17-09.08.31:715][601]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.17-09.08.31:715][601]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.17-09.08.31:715][601]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.17-09.08.31:715][601]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.17-09.08.31:715][601]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.17-09.08.31:715][601]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.17-09.08.31:717][601]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.17-09.08.31:738][601]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.17-09.08.31:738][601]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.17-09.08.31:738][601]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.17-09.08.31:738][601]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.17-09.08.31:739][601]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.01.17-09.08.31:739][601]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.01.17-09.08.31:740][601]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.01.17-09.08.31:740][601]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.01.17-09.08.31:741][601]LogInit: FAudioDevice initialized with ID 9.
+[2024.01.17-09.08.31:741][601]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonMap'.
+[2024.01.17-09.08.31:741][601]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.01.17-09.08.31:742][601]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.17-09.08.31:745][601]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.17-06.08.31
+[2024.01.17-09.08.31:746][601]LogWorld: Bringing up level for play took: 0.002984
+[2024.01.17-09.08.31:748][601]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.01.17-09.08.31:755][601]PIE: Server logged in
+[2024.01.17-09.08.31:755][601]PIE: Play in editor total start time 0,098 seconds.
+[2024.01.17-09.08.51:857][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-09.08.51:857][  4]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.17-09.08.51:858][  4]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-09.08.51:858][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.08.51:858][  4]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.17-09.08.51:861][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.17-09.08.51:865][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.08.51:884][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-09.08.51:884][  4]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.01.17-09.08.51:885][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.01.17-09.08.51:886][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.01.17-09.08.51:894][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.17-09.08.51:980][  5]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.01.17-09.09.17:589][215]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.01.17-09.09.17:592][215]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.021
+[2024.01.17-09.09.17:592][215]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/BP_AI] ([2] browsable assets)...
+[2024.01.17-09.09.17:592][215]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.09.17:615][215]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/AI/BP_AI.BP_AI_C]
+[2024.01.17-09.09.17:621][215]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AI.BP_AI]
+[2024.01.17-09.09.17:621][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AI]
+[2024.01.17-09.09.17:621][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AI" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Autosaves/Game/AI/BP_AI_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.01.17-09.09.17:632][215]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/BP_AI_Auto2
+[2024.01.17-09.09.17:632][215]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/BP_AI_Auto223536CF143191EDAC28B07B082617836.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Autosaves/Game/AI/BP_AI_Auto2.uasset'
+[2024.01.17-09.09.17:633][215]LogFileHelpers: Auto-saving content packages took 0.041
+[2024.01.17-09.09.39:275][998]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.09.39:555][ 11]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.09.39:574][ 12]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.09.39:582][ 12]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.09.42:106][ 64]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_1
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.09.48:444][ 83]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FirstPersonArms/Animations/MM_Pistol_Idle_ADS.MM_Pistol_Idle_ADS
+[2024.01.17-09.09.48:445][ 83]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.09.48:445][ 83]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.09.48:455][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.17-09.09.48:733][ 83]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.09.48:733][ 83]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.09.48:880][ 83]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.09.48:911][ 83]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2024.01.17-09.09.48:920][ 83]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.09.48:920][ 83]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.09.48:948][ 83]LogViewport: Scene viewport resized to 551x543, mode Windowed.
+[2024.01.17-09.09.48:976][ 83]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.17-09.09.49:093][ 85]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.09.57:904][118]LogSlate: Window 'MM_Pistol_Idle_ADS' being destroyed
+[2024.01.17-09.09.57:935][118]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-09.09.57:935][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.09.57:945][118]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-09.09.57:945][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.09.58:003][118]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-09.09.58:003][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.10.02:968][515]LogContentBrowser: Deferred new asset file creation: MM_Pistol_Idle_ADS1
+[2024.01.17-09.10.02:980][515]LogContentBrowser: Creating deferred item: MM_Pistol_Idle_ADS1
+[2024.01.17-09.10.02:996][516]LogContentBrowser: Renaming the item being created (Deferred Item: MM_Pistol_Idle_ADS1).
+[2024.01.17-09.10.03:844][591]LogContentBrowser: Attempting asset rename: MM_Pistol_Idle_ADS1 -> MM_Pistol_Idle_ADS1
+[2024.01.17-09.10.03:859][591]LogContentBrowser: End creating deferred item MM_Pistol_Idle_ADS1
+[2024.01.17-09.10.30:893][978]LogContentBrowser: Attempting asset rename: MM_Pistol_Idle_ADS1 -> Pistol-Shot
+[2024.01.17-09.10.30:924][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-09.10.30:971][978]LogSavePackage: Moving output files for package: /Game/FirstPersonArms/Animations/Pistol-Shot
+[2024.01.17-09.10.30:971][978]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Pistol-Shot122F0F274D0409D59F65F69EC3237548.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/FirstPersonArms/Animations/Pistol-Shot.uasset'
+[2024.01.17-09.10.30:982][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 647 ms)
+[2024.01.17-09.10.31:010][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.01.17-09.10.31:031][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.01.17-09.10.31:048][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.17-09.10.31:051][978]AssetCheck: New page: Asset Save: Pistol-Shot
+[2024.01.17-09.10.31:051][978]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/FirstPersonArms/Animations/Pistol-Shot.Pistol-Shot
+[2024.01.17-09.10.50:669][653]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_2
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.10.51:511][725]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_3
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.10.58:377][323]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_4
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.10.58:394][324]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_5
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.11.06:447][ 20]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_6
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.11.29:114][949]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_7
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.11.29:127][950]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_8
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.11.29:142][951]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_9
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.11.29:155][952]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_10
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.11.29:170][953]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_11
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.11.29:181][954]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_12
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.11.29:194][955]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_13
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.11.29:209][956]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_14
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.11.29:223][957]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_15
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.11.30:002][ 23]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_16
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.15.52:369][ 87]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_17
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.15.56:506][157]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FirstPersonArms/Animations/Pistol-Shot.Pistol-Shot
+[2024.01.17-09.15.56:507][157]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.15.56:507][157]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.15.56:518][157]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.17-09.15.56:796][157]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.15.56:796][157]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.15.56:960][157]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.15.56:960][157]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.15.56:981][157]LogViewport: Scene viewport resized to 551x543, mode Windowed.
+[2024.01.17-09.15.57:006][157]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.17-09.17.00:014][153]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/Pistol-Shot.Pistol-Shot
+[2024.01.17-09.17.00:024][153]LogAnimationCompression: Display: Storing compressed animation data for /Game/FirstPersonArms/Animations/Pistol-Shot.Pistol-Shot, at AnimationSequence/c04442fc8555ac32d41abe2ce7b9cdcdfa13c023
+[2024.01.17-09.17.10:675][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-09.17.10:706][236]LogSavePackage: Moving output files for package: /Game/FirstPersonArms/Animations/Pistol-Shot
+[2024.01.17-09.17.10:706][236]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Pistol-ShotF960C3D447126CE3B974998BC2A526F6.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/FirstPersonArms/Animations/Pistol-Shot.uasset'
+[2024.01.17-09.17.10:713][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 685 ms)
+[2024.01.17-09.17.10:714][236]AssetCheck: New page: Asset Save: Pistol-Shot
+[2024.01.17-09.17.10:714][236]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/FirstPersonArms/Animations/Pistol-Shot.Pistol-Shot
+[2024.01.17-09.17.13:172][376]LogViewport: Scene viewport resized to 549x558, mode Windowed.
+[2024.01.17-09.17.13:236][378]LogViewport: Scene viewport resized to 343x324, mode Windowed.
+[2024.01.17-09.17.13:273][379]LogViewport: Scene viewport resized to 340x320, mode Windowed.
+[2024.01.17-09.17.13:924][421]LogViewport: Scene viewport resized to 551x543, mode Windowed.
+[2024.01.17-09.17.14:299][453]LogSlate: Window 'Pistol-Shot' being destroyed
+[2024.01.17-09.17.16:421][692]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-09.17.16:421][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.17.16:459][692]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-09.17.16:459][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.17.20:802][205]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-09.17.20:802][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.17.20:809][205]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-09.17.20:809][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.17.23:252][493]BlueprintLog: New page: Compile BP_AI
+[2024.01.17-09.17.23:297][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.01.17-09.17.27:061][857]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.17-09.17.27:069][857]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.17-09.17.27:069][857]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.17-09.17.27:071][857]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 19 ms)
+[2024.01.17-09.17.27:071][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.17-09.17.27:071][857]PIE: New page: PIE session: FirstPersonMap (17 de jan de 2024 03:17:27)
+[2024.01.17-09.17.27:071][857]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.17-09.17.27:076][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005642s)
+[2024.01.17-09.17.27:076][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005669s)
+[2024.01.17-09.17.27:092][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.01.17-09.17.27:096][857]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.17.27:097][857]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.17.27:097][857]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.17-09.17.27:098][857]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.17-09.17.27:098][857]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.17-09.17.27:098][857]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.17-09.17.27:098][857]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.17-09.17.27:099][857]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.17-09.17.27:099][857]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 645 ms)
+[2024.01.17-09.17.27:099][857]LogPlayLevel: PIE: World Init took: (0.002834s)
+[2024.01.17-09.17.27:099][857]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.01.17-09.17.27:099][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.17-09.17.27:099][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.17-09.17.27:099][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.17-09.17.27:099][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.17-09.17.27:099][857]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.17-09.17.27:099][857]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.17-09.17.27:099][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.17-09.17.27:099][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.17-09.17.27:100][857]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.17-09.17.27:100][857]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.17-09.17.27:100][857]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.17-09.17.27:101][857]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.17-09.17.27:125][857]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.17-09.17.27:126][857]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.17-09.17.27:126][857]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.17-09.17.27:126][857]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.17-09.17.27:126][857]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.01.17-09.17.27:126][857]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.01.17-09.17.27:128][857]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.01.17-09.17.27:128][857]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.01.17-09.17.27:128][857]LogInit: FAudioDevice initialized with ID 10.
+[2024.01.17-09.17.27:128][857]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonMap'.
+[2024.01.17-09.17.27:128][857]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.01.17-09.17.27:131][857]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.17-09.17.27:134][857]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.17-06.17.27
+[2024.01.17-09.17.27:135][857]LogWorld: Bringing up level for play took: 0.003341
+[2024.01.17-09.17.27:137][857]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.01.17-09.17.27:142][857]PIE: Server logged in
+[2024.01.17-09.17.27:143][857]PIE: Play in editor total start time 0,075 seconds.
+[2024.01.17-09.17.41:527][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-09.17.41:527][575]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.17-09.17.41:527][575]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-09.17.41:528][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.17.41:528][575]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.17-09.17.41:531][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.17-09.17.41:535][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.17.41:552][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-09.17.41:553][575]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.01.17-09.17.41:553][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.01.17-09.17.41:555][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.01.17-09.17.41:562][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.01.17-09.17.41:637][576]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.01.17-09.18.06:964][444]LogContentBrowser: Deferred new asset file creation: Pistol-Shot_Montage
+[2024.01.17-09.18.06:976][444]LogContentBrowser: Creating deferred item: Pistol-Shot_Montage
+[2024.01.17-09.18.06:992][445]LogContentBrowser: Renaming the item being created (Deferred Item: Pistol-Shot_Montage).
+[2024.01.17-09.18.19:690][597]LogContentBrowser: Attempting asset rename: Pistol-Shot_Montage -> Pistol-Shot_Montage
+[2024.01.17-09.18.19:694][597]LogContentBrowser: End creating deferred item Pistol-Shot_Montage
+[2024.01.17-09.18.23:520][873]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_18
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:529][874]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_19
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:543][875]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_20
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:556][876]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_21
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:572][877]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_22
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:582][878]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_23
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:595][879]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_24
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:608][880]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_25
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:621][881]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_26
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:638][882]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_27
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:648][883]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_28
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:686][884]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_29
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:697][885]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_30
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:709][886]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_31
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:720][887]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_32
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:732][888]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_33
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:744][889]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_34
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:757][890]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_35
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:772][891]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_36
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:786][892]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_37
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:800][893]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_38
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:811][894]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_39
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:825][895]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_40
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:840][896]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_41
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:854][897]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_42
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:869][898]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_43
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:881][899]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_44
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:895][900]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_45
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:910][901]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_46
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:924][902]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_47
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:938][903]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_48
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:952][904]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_49
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:966][905]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_50
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:980][906]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_51
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.23:992][907]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_52
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:007][908]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_53
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:155][920]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_54
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:168][921]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_55
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:179][922]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_56
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:194][923]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_57
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:208][924]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_58
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:343][935]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_59
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:357][936]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_60
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:371][937]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_61
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:384][938]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_62
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:396][939]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_63
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:411][940]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_64
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:425][941]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_65
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:440][942]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_66
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:454][943]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_67
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:469][944]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_68
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:481][945]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_69
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:495][946]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_70
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:510][947]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_71
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:523][948]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_72
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:538][949]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_73
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:552][950]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_74
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:564][951]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_75
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:578][952]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_76
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:593][953]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_77
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:607][954]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_78
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:622][955]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_79
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:636][956]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_80
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:648][957]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_81
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:660][958]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_82
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:676][959]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_83
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:690][960]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_84
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:704][961]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_85
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:718][962]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_86
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:731][963]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_87
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:745][964]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_88
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:759][965]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_89
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:773][966]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_90
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:786][967]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_91
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:801][968]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_92
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:813][969]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_93
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:827][970]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_94
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:840][971]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_95
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:855][972]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_96
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:869][973]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_97
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:880][974]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_98
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:894][975]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_99
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:908][976]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_100
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:921][977]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_101
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:935][978]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_102
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.24:949][979]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_103
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.25:108][992]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_104
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.25:118][993]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms
+[2024.01.17-09.18.25:120][993]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.18.25:120][993]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.18.25:127][993]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.18.25:127][993]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.18.25:139][993]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.17-09.18.25:139][993]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.25:436][993]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.18.25:436][993]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.18.25:544][993]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.25:550][993]LogViewport: Scene viewport resized to 316x383, mode Windowed.
+[2024.01.17-09.18.25:591][993]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.17-09.18.25:627][994]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.25:650][995]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.25:658][996]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.25:667][997]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.25:675][998]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.25:683][999]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.25:692][  0]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.25:700][  1]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.25:710][  2]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.25:720][  3]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.25:728][  4]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.25:736][  5]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.25:744][  6]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Arms_C_0
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.42:659][585]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_105
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.42:659][585]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_105
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.42:724][588]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_106
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.42:724][588]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_106
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.48:374][756]BlueprintLog: New page: Compile ABP_Arms
+[2024.01.17-09.18.48:416][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.01.17-09.18.48:425][756]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_107
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.48:485][758]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_108
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.55:293][ 42]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_109
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.55:305][ 43]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_110
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.55:320][ 44]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_111
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.55:331][ 45]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_112
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.55:344][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_113
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.55:362][ 47]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_114
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.55:373][ 48]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_115
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.55:391][ 49]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_116
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.55:402][ 50]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_117
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.55:413][ 51]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_118
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.55:427][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_119
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.56:265][116]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_120
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.56:277][117]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_121
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.56:593][143]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_122
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.56:608][144]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_123
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.56:621][145]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_124
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.56:636][146]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_125
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.56:648][147]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_126
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.18.56:661][148]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_127
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.19.02:302][355]LogViewport: Scene viewport resized to 731x644, mode Windowed.
+[2024.01.17-09.20.17:022][782]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.17-09.20.17:028][782]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.17-09.20.17:028][782]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.17-09.20.17:031][782]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 22 ms)
+[2024.01.17-09.20.17:031][782]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.17-09.20.17:034][782]LogPlayLevel: [PlayLevel] Compiling BP_FirstPersonCharacter before play...
+[2024.01.17-09.20.17:175][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.01.17-09.20.17:179][782]LogPlayLevel: PlayLevel: Blueprint regeneration took 147 ms (1 blueprints)
+[2024.01.17-09.20.17:179][782]PIE: New page: PIE session: FirstPersonMap (17 de jan de 2024 03:20:17)
+[2024.01.17-09.20.17:179][782]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.17-09.20.17:184][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005677s)
+[2024.01.17-09.20.17:185][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005707s)
+[2024.01.17-09.20.17:199][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.01.17-09.20.17:201][782]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.20.17:201][782]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.20.17:202][782]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.17-09.20.17:202][782]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.17-09.20.17:202][782]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.17-09.20.17:202][782]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.17-09.20.17:202][782]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.17-09.20.17:204][782]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.17-09.20.17:204][782]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 647 ms)
+[2024.01.17-09.20.17:204][782]LogPlayLevel: PIE: World Init took: (0.002863s)
+[2024.01.17-09.20.17:204][782]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.01.17-09.20.17:204][782]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.17-09.20.17:204][782]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.17-09.20.17:204][782]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.17-09.20.17:204][782]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.17-09.20.17:204][782]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.17-09.20.17:204][782]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.17-09.20.17:204][782]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.17-09.20.17:204][782]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.17-09.20.17:204][782]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.17-09.20.17:204][782]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.17-09.20.17:204][782]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.17-09.20.17:206][782]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.17-09.20.17:229][782]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.17-09.20.17:229][782]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.17-09.20.17:229][782]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.17-09.20.17:229][782]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.17-09.20.17:231][782]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.01.17-09.20.17:231][782]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.01.17-09.20.17:232][782]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.01.17-09.20.17:232][782]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.01.17-09.20.17:232][782]LogInit: FAudioDevice initialized with ID 11.
+[2024.01.17-09.20.17:232][782]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonMap'.
+[2024.01.17-09.20.17:232][782]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.01.17-09.20.17:236][782]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.17-09.20.17:239][782]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.17-06.20.17
+[2024.01.17-09.20.17:239][782]LogWorld: Bringing up level for play took: 0.003231
+[2024.01.17-09.20.17:241][782]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.01.17-09.20.17:247][782]PIE: Server logged in
+[2024.01.17-09.20.17:249][782]PIE: Play in editor total start time 0,221 seconds.
+[2024.01.17-09.20.36:837][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-09.20.36:837][123]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.17-09.20.36:838][123]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-09.20.36:838][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.20.36:838][123]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.17-09.20.36:841][123]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.17-09.20.36:846][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.20.36:862][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-09.20.36:862][123]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.01.17-09.20.36:862][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.01.17-09.20.36:864][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.01.17-09.20.36:871][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.01.17-09.20.36:952][124]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.01.17-09.21.07:078][106]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_128
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.21.08:732][227]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/FirstPersonArms/Animations/Pistol-Shot_Montage.Pistol-Shot_Montage
+[2024.01.17-09.21.08:806][227]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-09.21.08:806][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.21.37:486][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.01.17-09.21.37:490][781]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.024
+[2024.01.17-09.21.37:490][781]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.01.17-09.21.37:506][781]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.01.17-09.21.37:506][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.01.17-09.21.37:531][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3
+[2024.01.17-09.21.37:532][781]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/BP_FirstPersonCharacter_Auto393F023C04E77E36FEC08E2B30D421749.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3.uasset'
+[2024.01.17-09.21.37:534][781]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonArms/Animations/ABP_Arms] ([2] browsable assets)...
+[2024.01.17-09.21.37:534][781]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_129
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.21.37:539][781]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms]
+[2024.01.17-09.21.37:539][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonArms/Animations/ABP_Arms]
+[2024.01.17-09.21.37:546][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPersonArms/Animations/ABP_Arms_Auto3
+[2024.01.17-09.21.37:546][781]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/ABP_Arms_Auto3E41417A7455E603A5C2CFCBB70F5A404.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Autosaves/Game/FirstPersonArms/Animations/ABP_Arms_Auto3.uasset'
+[2024.01.17-09.21.37:547][781]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AI] ([2] browsable assets)...
+[2024.01.17-09.21.37:552][781]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AI.BP_AI]
+[2024.01.17-09.21.37:552][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AI]
+[2024.01.17-09.21.37:552][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AI" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Autosaves/Game/AI/BP_AI_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.01.17-09.21.37:563][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/BP_AI_Auto3
+[2024.01.17-09.21.37:563][781]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/BP_AI_Auto3D8857AE9449F1615345E04B7E6ACF5A4.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Autosaves/Game/AI/BP_AI_Auto3.uasset'
+[2024.01.17-09.21.37:565][781]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonArms/Animations/Pistol-Shot_Montage] ([1] browsable assets)...
+[2024.01.17-09.21.37:573][781]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/FirstPersonArms/Animations/Pistol-Shot_Montage.Pistol-Shot_Montage]
+[2024.01.17-09.21.37:573][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonArms/Animations/Pistol-Shot_Montage]
+[2024.01.17-09.21.37:574][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPersonArms/Animations/Pistol-Shot_Montage_Auto3
+[2024.01.17-09.21.37:574][781]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Pistol-Shot_Montage_Auto3DB96E6614D4AEDDE7BA1B4AC0A817B52.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Autosaves/Game/FirstPersonArms/Animations/Pistol-Shot_Montage_Auto3.uasset'
+[2024.01.17-09.21.37:575][781]LogFileHelpers: Auto-saving content packages took 0.085
+[2024.01.17-09.22.15:381][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-09.22.15:411][514]LogSavePackage: Moving output files for package: /Game/FirstPersonArms/Animations/Pistol-Shot_Montage
+[2024.01.17-09.22.15:411][514]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Pistol-Shot_Montage09C3D57746E9863C0991B0B1B2CE7830.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/FirstPersonArms/Animations/Pistol-Shot_Montage.uasset'
+[2024.01.17-09.22.15:425][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 729 ms)
+[2024.01.17-09.22.15:426][514]AssetCheck: New page: Asset Save: Pistol-Shot_Montage
+[2024.01.17-09.22.15:426][514]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/FirstPersonArms/Animations/Pistol-Shot_Montage.Pistol-Shot_Montage
+[2024.01.17-09.22.26:194][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.01.17-09.22.26:201][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-09.22.26:242][612]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.17-09.22.26:243][612]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/BP_FirstPersonCharacter6B5DD696412ED267788CF5B25A1C40AE.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.17-09.22.26:251][612]LogSavePackage: Moving output files for package: /Game/FirstPersonArms/Animations/ABP_Arms
+[2024.01.17-09.22.26:252][612]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/ABP_ArmsDE18EBC64551A9FEE4AA899BF03E41CE.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/FirstPersonArms/Animations/ABP_Arms.uasset'
+[2024.01.17-09.22.26:254][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AI" FILE="C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/AI/BP_AI.uasset" SILENT=true
+[2024.01.17-09.22.26:265][612]LogSavePackage: Moving output files for package: /Game/AI/BP_AI
+[2024.01.17-09.22.26:265][612]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/BP_AIBBAE330447A05A654125DB931D1FD43D.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Content/AI/BP_AI.uasset'
+[2024.01.17-09.22.26:271][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 798 ms)
+[2024.01.17-09.22.26:274][612]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.17-09.22.26:274][612]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.17-09.22.26:274][612]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms
+[2024.01.17-09.22.26:274][612]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BP_AI.BP_AI
+[2024.01.17-09.22.27:345][701]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.17-09.22.27:353][701]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.17-09.22.27:353][701]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.17-09.22.27:355][701]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 24 ms)
+[2024.01.17-09.22.27:355][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.17-09.22.27:355][701]PIE: New page: PIE session: FirstPersonMap (17 de jan de 2024 03:22:27)
+[2024.01.17-09.22.27:376][701]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.17-09.22.27:381][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005170s)
+[2024.01.17-09.22.27:381][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005207s)
+[2024.01.17-09.22.27:396][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.01.17-09.22.27:398][701]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.22.27:398][701]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.22.27:399][701]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.17-09.22.27:399][701]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.17-09.22.27:399][701]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.17-09.22.27:399][701]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.17-09.22.27:399][701]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.17-09.22.27:401][701]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.17-09.22.27:401][701]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 648 ms)
+[2024.01.17-09.22.27:401][701]LogPlayLevel: PIE: World Init took: (0.002596s)
+[2024.01.17-09.22.27:401][701]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.01.17-09.22.27:401][701]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.17-09.22.27:401][701]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.17-09.22.27:401][701]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.17-09.22.27:401][701]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.17-09.22.27:401][701]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.17-09.22.27:401][701]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.17-09.22.27:401][701]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.17-09.22.27:401][701]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.17-09.22.27:401][701]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.17-09.22.27:401][701]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.17-09.22.27:401][701]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.17-09.22.27:403][701]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.17-09.22.27:426][701]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.17-09.22.27:426][701]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.17-09.22.27:426][701]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.17-09.22.27:426][701]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.17-09.22.27:426][701]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.01.17-09.22.27:426][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.01.17-09.22.27:428][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.01.17-09.22.27:428][701]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.01.17-09.22.27:428][701]LogInit: FAudioDevice initialized with ID 12.
+[2024.01.17-09.22.27:428][701]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonMap'.
+[2024.01.17-09.22.27:428][701]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.01.17-09.22.27:431][701]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.17-09.22.27:435][701]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.17-06.22.27
+[2024.01.17-09.22.27:436][701]LogWorld: Bringing up level for play took: 0.004676
+[2024.01.17-09.22.27:438][701]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.01.17-09.22.27:444][701]PIE: Server logged in
+[2024.01.17-09.22.27:444][701]PIE: Play in editor total start time 0,092 seconds.
+[2024.01.17-09.22.40:257][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-09.22.40:257][231]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.17-09.22.40:257][231]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-09.22.40:258][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.22.40:258][231]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.17-09.22.40:261][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.17-09.22.40:266][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.22.40:281][231]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.17-09.22.40:282][231]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.01.17-09.22.40:282][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.01.17-09.22.40:284][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.01.17-09.22.40:288][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-09.22.40:292][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.01.17-09.22.40:379][232]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.01.17-09.22.45:398][694]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FirstPersonArms/Animations/Pistol-Shot.Pistol-Shot
+[2024.01.17-09.22.45:449][694]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.22.45:450][694]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.23.48:527][277]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.01.17-09.23.48:600][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.01.17-09.24.26:503][380]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/FirstPersonArms/Animations/Pistol-Shot_Montage.Pistol-Shot_Montage
+[2024.01.17-09.24.26:549][380]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-09.24.26:549][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.28.00:880][967]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FirstPersonArms/Animations/Pistol-Shot.Pistol-Shot
+[2024.01.17-09.28.00:933][967]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.28.00:933][967]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.29.03:936][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.01.17-09.29.11:431][543]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.17-09.29.11:444][543]LogAutomationController: Ignoring very large delta of 7.55 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.17-09.29.29:079][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_130
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:478][655]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_131
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:489][656]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_132
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:507][657]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_133
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:522][658]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_134
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:536][659]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_135
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:551][660]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_136
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:565][661]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_137
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:579][662]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_138
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:595][663]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_139
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:610][664]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_140
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:625][665]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_141
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:638][666]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_142
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:657][667]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_143
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:672][668]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_144
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:685][669]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_145
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:703][670]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_146
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:717][671]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_147
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:730][672]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_148
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:745][673]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_149
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:760][674]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_150
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:772][675]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_151
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:789][676]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_152
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:804][677]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_153
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:818][678]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_154
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:833][679]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_155
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:846][680]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_156
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:861][681]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_157
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:979][690]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_158
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.29:992][691]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_159
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.29.30:007][692]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_160
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.30.35:801][497]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.01.17-09.30.35:869][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.01.17-09.30.37:625][636]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.17-09.30.37:633][636]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.17-09.30.37:633][636]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.17-09.30.37:636][636]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 27 ms)
+[2024.01.17-09.30.37:636][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.17-09.30.37:636][636]PIE: New page: PIE session: FirstPersonMap (17 de jan de 2024 03:30:37)
+[2024.01.17-09.30.37:657][636]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.17-09.30.37:663][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006330s)
+[2024.01.17-09.30.37:663][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006366s)
+[2024.01.17-09.30.37:681][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.17-09.30.37:686][636]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.30.37:686][636]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.30.37:687][636]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.17-09.30.37:687][636]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.17-09.30.37:687][636]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.17-09.30.37:687][636]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.17-09.30.37:687][636]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.17-09.30.37:689][636]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.17-09.30.37:689][636]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 650 ms)
+[2024.01.17-09.30.37:689][636]LogPlayLevel: PIE: World Init took: (0.002516s)
+[2024.01.17-09.30.37:689][636]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.01.17-09.30.37:689][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.17-09.30.37:689][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.17-09.30.37:689][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.17-09.30.37:689][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.17-09.30.37:689][636]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.17-09.30.37:689][636]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.17-09.30.37:689][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.17-09.30.37:689][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.17-09.30.37:689][636]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.17-09.30.37:689][636]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.17-09.30.37:689][636]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.17-09.30.37:691][636]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.17-09.30.37:714][636]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.17-09.30.37:714][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.17-09.30.37:714][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.17-09.30.37:714][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.17-09.30.37:715][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.01.17-09.30.37:715][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.01.17-09.30.37:718][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.01.17-09.30.37:718][636]LogInit: FAudioDevice initialized with ID 13.
+[2024.01.17-09.30.37:718][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.01.17-09.30.37:718][636]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonMap'.
+[2024.01.17-09.30.37:718][636]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.01.17-09.30.37:720][636]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.17-09.30.37:724][636]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.17-06.30.37
+[2024.01.17-09.30.37:724][636]LogWorld: Bringing up level for play took: 0.003893
+[2024.01.17-09.30.37:726][636]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.01.17-09.30.37:733][636]PIE: Server logged in
+[2024.01.17-09.30.37:734][636]PIE: Play in editor total start time 0,1 seconds.
+[2024.01.17-09.30.54:677][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-09.30.54:677][653]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.17-09.30.54:677][653]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-09.30.54:678][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.30.54:678][653]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.17-09.30.54:681][653]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.17-09.30.54:685][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.30.54:701][653]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.17-09.30.54:702][653]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.01.17-09.30.54:702][653]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.17-09.30.54:705][653]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.17-09.30.54:717][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-09.30.54:722][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.01.17-09.30.54:804][654]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.01.17-09.31.40:427][394]Cmd: DUPLICATE
+[2024.01.17-09.31.40:427][394]Cmd: ACTOR DUPLICATE
+[2024.01.17-09.31.50:123][248]Cmd: DUPLICATE
+[2024.01.17-09.31.50:123][248]Cmd: ACTOR DUPLICATE
+[2024.01.17-09.31.55:056][675]Cmd: DUPLICATE
+[2024.01.17-09.31.55:056][675]Cmd: ACTOR DUPLICATE
+[2024.01.17-09.31.59:305][ 30]Cmd: DUPLICATE
+[2024.01.17-09.31.59:305][ 30]Cmd: ACTOR DUPLICATE
+[2024.01.17-09.32.02:311][282]Cmd: DUPLICATE
+[2024.01.17-09.32.02:311][282]Cmd: ACTOR DUPLICATE
+[2024.01.17-09.32.05:182][527]Cmd: DUPLICATE
+[2024.01.17-09.32.05:182][527]Cmd: ACTOR DUPLICATE
+[2024.01.17-09.32.09:171][862]Cmd: DUPLICATE
+[2024.01.17-09.32.09:171][862]Cmd: ACTOR DUPLICATE
+[2024.01.17-09.32.35:372][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.01.17-09.32.35:377][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/TO/FUWSPNPM5920K621P0O64E_Auto4
+[2024.01.17-09.32.35:377][211]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/FUWSPNPM5920K621P0O64E_Auto442DE4C5A43ABB84838612DBC22750C52.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/TO/FUWSPNPM5920K621P0O64E_Auto4.uasset'
+[2024.01.17-09.32.35:381][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/67/51213L2I5Q1SUSIZ3WCZ9R_Auto4
+[2024.01.17-09.32.35:381][211]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/51213L2I5Q1SUSIZ3WCZ9R_Auto4C7D2D8EB41B6CBDB14E39AB6BB81DC8C.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/67/51213L2I5Q1SUSIZ3WCZ9R_Auto4.uasset'
+[2024.01.17-09.32.35:384][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/Y0/L2W8JE4ERL9OXC7P8JHJQS_Auto4
+[2024.01.17-09.32.35:384][211]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/L2W8JE4ERL9OXC7P8JHJQS_Auto4969B320E4AEEB4191D891AAAD8B6A5F5.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/Y0/L2W8JE4ERL9OXC7P8JHJQS_Auto4.uasset'
+[2024.01.17-09.32.35:386][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/A3/UIEQ3JNM01NXRV0TSYLX7G_Auto4
+[2024.01.17-09.32.35:386][211]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/UIEQ3JNM01NXRV0TSYLX7G_Auto49ABA0A194FBE59E67E5B0792469B2D81.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/A3/UIEQ3JNM01NXRV0TSYLX7G_Auto4.uasset'
+[2024.01.17-09.32.35:389][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/5Y/SFM677488WHZJBD338ZGP3_Auto4
+[2024.01.17-09.32.35:389][211]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/SFM677488WHZJBD338ZGP3_Auto406F5F14549E2E4C255ED0DBA0A068B24.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/5Y/SFM677488WHZJBD338ZGP3_Auto4.uasset'
+[2024.01.17-09.32.35:392][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/AE/7OUN05B685FZGP8640K8U8_Auto4
+[2024.01.17-09.32.35:392][211]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/7OUN05B685FZGP8640K8U8_Auto44E40D09943E738ADE60C8F88EE8DE578.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/AE/7OUN05B685FZGP8640K8U8_Auto4.uasset'
+[2024.01.17-09.32.35:395][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/SZ/1WNSI75G56RVSP0I7WY20R_Auto4
+[2024.01.17-09.32.35:395][211]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/1WNSI75G56RVSP0I7WY20R_Auto48ECCBB70409753AB417BCCB6970400B9.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/SZ/1WNSI75G56RVSP0I7WY20R_Auto4.uasset'
+[2024.01.17-09.32.35:398][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/12/NZLI0MGNX3O47ACLKD97HR_Auto4
+[2024.01.17-09.32.35:398][211]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/NZLI0MGNX3O47ACLKD97HR_Auto44CDDB92E4CF1324DFD50ED96B9895F95.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/12/NZLI0MGNX3O47ACLKD97HR_Auto4.uasset'
+[2024.01.17-09.32.35:399][211]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.046
+[2024.01.17-09.32.35:400][211]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2024.01.17-09.32.35:400][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.01.17-09.32.35:407][211]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.01.17-09.32.35:407][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.01.17-09.32.35:434][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto4
+[2024.01.17-09.32.35:435][211]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/BP_FirstPersonCharacter_Auto4868DE5AB4C4086DAD24F7E9A39A3EB37.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto4.uasset'
+[2024.01.17-09.32.35:436][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonArms/Animations/Pistol-Shot_Montage] ([1] browsable assets)...
+[2024.01.17-09.32.35:442][211]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/FirstPersonArms/Animations/Pistol-Shot_Montage.Pistol-Shot_Montage]
+[2024.01.17-09.32.35:442][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonArms/Animations/Pistol-Shot_Montage]
+[2024.01.17-09.32.35:444][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPersonArms/Animations/Pistol-Shot_Montage_Auto4
+[2024.01.17-09.32.35:444][211]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Pistol-Shot_Montage_Auto4505E858548BA2450EEEDA8B5D3F9E06C.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FirstPersonShooter/FirstPersonShooter/Saved/Autosaves/Game/FirstPersonArms/Animations/Pistol-Shot_Montage_Auto4.uasset'
+[2024.01.17-09.32.35:445][211]LogFileHelpers: Auto-saving content packages took 0.045
+[2024.01.17-09.32.50:350][833]BlueprintLog: New page: Compile BP_AI
+[2024.01.17-09.32.50:468][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.01.17-09.32.52:442][999]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.17-09.32.52:449][999]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.17-09.32.52:449][999]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.17-09.32.52:452][999]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 30 ms)
+[2024.01.17-09.32.52:464][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.17-09.32.52:464][999]PIE: New page: PIE session: FirstPersonMap (17 de jan de 2024 03:32:52)
+[2024.01.17-09.32.52:487][999]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.17-09.32.52:493][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006830s)
+[2024.01.17-09.32.52:493][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006888s)
+[2024.01.17-09.32.52:510][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.01.17-09.32.52:513][999]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.32.52:513][999]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.32.52:513][999]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.17-09.32.52:514][999]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.17-09.32.52:514][999]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.17-09.32.52:514][999]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.17-09.32.52:514][999]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.17-09.32.52:516][999]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.17-09.32.52:516][999]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 652 ms)
+[2024.01.17-09.32.52:516][999]LogPlayLevel: PIE: World Init took: (0.003778s)
+[2024.01.17-09.32.52:516][999]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.01.17-09.32.52:516][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.17-09.32.52:516][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.17-09.32.52:516][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.17-09.32.52:516][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.17-09.32.52:516][999]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.17-09.32.52:516][999]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.17-09.32.52:516][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.17-09.32.52:516][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.17-09.32.52:517][999]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.17-09.32.52:517][999]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.17-09.32.52:517][999]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.17-09.32.52:519][999]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.17-09.32.52:543][999]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.17-09.32.52:543][999]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.17-09.32.52:543][999]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.17-09.32.52:543][999]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.17-09.32.52:544][999]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.01.17-09.32.52:544][999]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.01.17-09.32.52:545][999]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.01.17-09.32.52:546][999]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.01.17-09.32.52:546][999]LogInit: FAudioDevice initialized with ID 14.
+[2024.01.17-09.32.52:546][999]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonMap'.
+[2024.01.17-09.32.52:546][999]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.01.17-09.32.52:549][999]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.17-09.32.52:556][999]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.17-06.32.52
+[2024.01.17-09.32.52:558][999]LogWorld: Bringing up level for play took: 0.008804
+[2024.01.17-09.32.52:560][999]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.01.17-09.32.52:569][999]PIE: Server logged in
+[2024.01.17-09.32.52:569][999]PIE: Play in editor total start time 0,12 seconds.
+[2024.01.17-09.32.58:297][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-09.32.58:297][651]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.17-09.32.58:298][651]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-09.32.58:299][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.32.58:299][651]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.17-09.32.58:303][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.17-09.32.58:307][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.32.58:324][651]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.17-09.32.58:325][651]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.01.17-09.32.58:325][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.01.17-09.32.58:328][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.01.17-09.32.58:332][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-09.32.58:338][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.01.17-09.32.58:465][652]LogPlayLevel: Display: Destroying online subsystem :Context_45
