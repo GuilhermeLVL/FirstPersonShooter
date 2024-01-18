@@ -3064,3 +3064,61 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.17-09.38.38:365][639]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
 [2024.01.17-09.38.38:365][639]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BP_AI.BP_AI
 [2024.01.17-09.38.38:365][639]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/FirstPersonArms/Animations/Pistol-Shot_Montage.Pistol-Shot_Montage
+[2024.01.17-09.40.02:189][255]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_161
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.40.02:204][256]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_162
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.40.16:063][ 76]LogCEFBrowser: CEF GPU acceleration enabled
+[2024.01.17-09.40.17:943][ 77]LogAutomationController: Ignoring very large delta of 3.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.17-09.43.45:987][948]LogSlate: Window 'Megascans' being destroyed
+[2024.01.17-09.44.42:287][550]LogSlate: Window 'Login' being destroyed
+[2024.01.17-09.44.48:455][930]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.01.17-09.44.48:456][930]LogWebBrowser: Deleting browser for Url=https://accounts.google.com/v3/signin/challenge/pwd?TL=AHNYTIQHvDCpJ60k5PB3-yCeTNwdLOiAWuW-TEcENdtdK7NmxigUquyhAttByR86&app_domain=https%3A%2F%2Faccounts.epicgames.com&checkConnection=youtube%3A236&checkedDomains=youtube&cid=2&client_id=81931294547-ict6llss8611g9nglndn2bnln48bo59d.apps.googleusercontent.com&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMIxNMuQAHv4JuwciJJNmp2GzbKC2w6YwcU1SCa-wNAzgjWxX4Oy8FtJo93BANpdfdBWkMeaV7pGU-LY0wg52HeD7sLe6jrDzj2YwuOI0YMb0xmJ3iJ-u0Q5WJsLcgN4WJDxJwATyQ0sYq2CiJr1z31v2dRm2YXB4lVBzfBszFaccKcqtH5VN_hyu1VCsm-2I_8uEIuNLNGfIcghtQ0bNBmsoH845MQgnC39rEh5cjtQLyqGR0oomSyc7xsIKZTCH2l3cvQe00OYLQNVFu92gTLzN_8OtERwworu12Cut9tggtDLN9lh5vSlSvpG9M7CZ-dC-OuO1rzHUNRksUKyJu-aDQZO-BFr2wUteZkLo5OIu4VzsXrgDRZpF8u8iHzS17cvoTmQlBEehhaRXhSNUWPG2RrRFXrtcb2B0WvnCSiS3lSghUT22Y2YG62VVylarmcVi_jR4Yi1JC77g7i8EcJsvbpqEv5GtoTJuPZvKq8LaBIWQ8%26as%3DS2114845111%253A1705484663851911%26client_id%3D81931294547-ict6llss8611g9nglndn2bnln48bo59d.apps.googleusercontent.com%26theme%3Dglif%23&display=popup&dsh=S2114845111%3A1705484663851911&flowName=GeneralOAuthFlow&nonce=BGEtxaYe&o2v=1&opparams=%253Fservice_entity%253Dundefined%2526force_verify%253Dtrue&pstMsg=1&rart=ANgoxcfHCSrSHLCqVj_DgXSwyiHSlzi8Tz63Oqg6DfU85q_h1zrUL692zM-mekbTlnaVvNuVN2M8KzFZ6IKFDOACWDXhzyC34us-aQ9FpmQDjQNBfqeYt-8&redirect_uri=https%3A%2F%2Faccounts.epicgames.com%2FOAuthAuthorized&response_type=code&scope=openid%20email%20profile&service=lso&state=eyJpZCI6IjQwZmNiYTkxZDI5ZDQ0ZDc4MDk1OTJiODczNTc1MzM5In0%3D&theme=glif.
+[2024.01.17-09.45.55:307][103]LogDerivedDataCache: C:/Users/l-0-l/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.082 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5602 files in 6625 folders with total size 141 MiB.
+[2024.01.17-09.48.38:236][ 41]LogSlate: Window 'Login' being destroyed
+[2024.01.17-09.48.42:630][ 54]LogSlate: Window 'Login' being destroyed
+[2024.01.17-09.48.42:632][ 54]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.01.17-09.48.42:632][ 54]LogWebBrowser: Deleting browser for Url=https://www.epicgames.com/id/login?client_id=b9101103b8814baa9bb4e79e5eb107d0&response_type=code.
+[2024.01.17-09.48.50:881][515]LogWindows: LaunchURL https://quixel.com/account
+[2024.01.17-09.52.34:538][732]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Weathered_Concrete_Wall_vi4idbm/T_WeatheredConcreteWall_vi4idbm_1K_ORDp.T_WeatheredConcreteWall_vi4idbm_1K_ORDp (TFO_DXT1, 1024x512 x1x1x1) (Required Memory Estimate: 66.479148 MB), EncodeSpeed: Fast
+[2024.01.17-09.52.34:538][732]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Weathered_Concrete_Wall_vi4idbm/T_Weathered_Concrete_Wall_vi4idbm_1K_D.T_Weathered_Concrete_Wall_vi4idbm_1K_D (TFO_DXT1, 1024x512 x1x1x1) (Required Memory Estimate: 66.479148 MB), EncodeSpeed: Fast
+[2024.01.17-09.52.34:538][732]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Weathered_Concrete_Wall_vi4idbm/T_Weathered_Concrete_Wall_vi4idbm_1K_N.T_Weathered_Concrete_Wall_vi4idbm_1K_N (TFO_BC5, 1024x512 x1x1x1) (Required Memory Estimate: 142.562475 MB), EncodeSpeed: Fast
+[2024.01.17-09.54.41:337][411]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_163
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.54.41:876][449]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_164
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.54.41:890][450]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_165
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
+[2024.01.17-09.55.09:870][975]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-09.55.12:007][124]LogShaderCompilers: Display: ================================================
+[2024.01.17-09.55.12:007][124]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.17-09.55.12:007][124]LogShaderCompilers: Display: Total job queries 24, among them cache hits 10 (41.67%)
+[2024.01.17-09.55.12:007][124]LogShaderCompilers: Display: Tracking 11 distinct input hashes that result in 7 distinct outputs (63.64%)
+[2024.01.17-09.55.12:007][124]LogShaderCompilers: Display: RAM used: 384,98 KiB of 819,20 MiB budget. Usage: 0.05%
+[2024.01.17-09.55.12:007][124]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.17-09.55.12:007][124]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.01.17-09.55.12:007][124]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2024.01.17-09.55.12:007][124]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.03 s
+[2024.01.17-09.55.12:007][124]LogShaderCompilers: Display: Job execution time: average 2.08 s, max 2.08 s
+[2024.01.17-09.55.12:007][124]LogShaderCompilers: Display: Job life time (pending + execution): average 2.10 s, max 2.10
+[2024.01.17-09.55.12:007][124]LogShaderCompilers: Display: Shader code size: average 31,922 KiB, min 31,922 KiB, max 31,922 KiB
+[2024.01.17-09.55.12:008][124]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.10 s
+[2024.01.17-09.55.12:008][124]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.17-09.55.12:008][124]LogShaderCompilers: Display: Average processing rate: 0.48 jobs/sec
+[2024.01.17-09.55.12:008][124]LogShaderCompilers: Display: Total thread time: 0,484 s
+[2024.01.17-09.55.12:008][124]LogShaderCompilers: Display: Total thread preprocess time: 0,359 s
+[2024.01.17-09.55.12:008][124]LogShaderCompilers: Display: Percentage time preprocessing: 74.10%
+[2024.01.17-09.55.12:008][124]LogShaderCompilers: Display: Effective parallelization: 0.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.17-09.55.12:008][124]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.01.17-09.55.12:008][124]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.48 sec, max 0.48 sec, min 0.48 sec)
+[2024.01.17-09.55.12:008][124]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.01.17-09.55.12:008][124]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.48 sec, max 0.48 sec, min 0.48 sec)
+[2024.01.17-09.55.12:008][124]LogShaderCompilers: Display: ================================================
+[2024.01.17-09.55.12:987][191]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Arms_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Arms_C_166
+	Function /Game/FirstPersonArms/Animations/ABP_Arms.ABP_Arms_C:ExecuteUbergraph_ABP_Arms:0040
